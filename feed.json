@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2025/08/20/too-late-olympus-em-iv.html",
+				
+				"content_html": "<p>&ldquo;Too Late&rdquo;</p>\n<p>Olympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/2.8, 1/80s, ISO 250. Thistle head at Mount Pisgah.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Too Late\"\n\nOlympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/2.8, 1/80s, ISO 250. Thistle head at Mount Pisgah.\n\n<img src=\"uploads/2025/20250818-0009.jpg\" width=\"600\" height=\"337\" alt=\"thistle head\">\n",
+				"date_published": "2025-08-20T05:48:47-07:00",
+				"url": "https://larkfarm.com/2025/08/20/too-late-olympus-em-iv.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2025/08/18/monochrome-wings-olympus-em-iv.html",
+				
+				"content_html": "<p>&ldquo;Monochrome Wings&rdquo;</p>\n<p>Olympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/18, 1/200s, ISO 2000. Pine White butterfly near Spirit Falls.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Monochrome Wings\"\n\nOlympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/18, 1/200s, ISO 2000. Pine White butterfly near Spirit Falls.\n\n<img src=\"uploads/2025/20250817-0022.jpg\" width=\"600\" height=\"337\" alt=\"pine white butterfly\">\n",
+				"date_published": "2025-08-18T04:21:56-07:00",
+				"url": "https://larkfarm.com/2025/08/18/monochrome-wings-olympus-em-iv.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2025/08/18/get-a-haircut-olympus-em.html",
+				
+				"content_html": "<p>&ldquo;Get a Haircut!&rdquo;</p>\n<p>Olympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/8, 1/30s, ISO 6400. Shot on the Moon Falls Trail.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Get a Haircut!\"\n\nOlympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/8, 1/30s, ISO 6400. Shot on the Moon Falls Trail.\n\n<img src=\"uploads/2025/20250817-0013.jpg\" width=\"600\" height=\"337\" alt=\"close up of moss\">\n",
+				"date_published": "2025-08-18T04:19:20-07:00",
+				"url": "https://larkfarm.com/2025/08/18/get-a-haircut-olympus-em.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2025/08/17/the-island-olympus-em-iv.html",
+				
+				"content_html": "<p>&ldquo;The Island&rdquo;</p>\n<p>Olympus E-M10 IV with 14-42mm kit lens @ 31mm, f/8, 1/50s, ISO 250. Shot at Notch Lake.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"The Island\"\n\nOlympus E-M10 IV with 14-42mm kit lens @ 31mm, f/8, 1/50s, ISO 250. Shot at Notch Lake.\n\n<img src=\"uploads/2025/20250816-0013.jpg\" width=\"600\" height=\"337\" alt=\"rock island in a mist-shrouded lake\">\n",
+				"date_published": "2025-08-17T17:33:45-07:00",
+				"url": "https://larkfarm.com/2025/08/17/the-island-olympus-em-iv.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2025/08/17/space-invader-olympus-em-iv.html",
+				
+				"content_html": "<p>&ldquo;Space Invader&rdquo;</p>\n<p>Olympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/8, 1/200s, ISO 6400. Shot along the Maiden Lake Trail.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Space Invader\"\n\nOlympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/8, 1/200s, ISO 6400. Shot along the Maiden Lake Trail.\n\n<img src=\"uploads/2025/20250813-0105.jpg\" width=\"600\" height=\"337\" alt=\"Prince's pine flower\">\n",
+				"date_published": "2025-08-17T15:35:02-07:00",
+				"url": "https://larkfarm.com/2025/08/17/space-invader-olympus-em-iv.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2025/08/17/the-sap-rises-olympus-em.html",
 				
 				"content_html": "<p>&ldquo;The Sap Rises&rdquo;</p>\n<p>Olympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/8, 1/25s, ISO 250. Pinesap flowers along the Maiden Lake Trail.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"The Sap Rises\"\n\nOlympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/8, 1/25s, ISO 250. Pinesap flowers along the Maiden Lake Trail.\n\n<img src=\"uploads/2025/20250813-0065.jpg\" width=\"600\" height=\"337\" alt=\"parasitic flowers on the forest floor\">\n",
+				"content_text": "\"The Sap Rises\"\n\nOlympus E-M10 IV with M.Zuiko 60mm f/2.8 macro lens @ f/8, 1/25s, ISO 250. Pinesap flowers along the Maiden Lake Trail.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20250813-0065.jpg\" width=\"600\" height=\"337\" alt=\"parasitic flowers on the forest floor\">\n",
 				"date_published": "2025-08-17T07:20:57-07:00",
 				"url": "https://larkfarm.com/2025/08/17/the-sap-rises-olympus-em.html"
 			},
@@ -18,7 +58,7 @@
 				"id": "http://ffmike.micro.blog/2025/08/15/brainiac-olympus-em-iv-with.html",
 				
 				"content_html": "<p>&ldquo;Brainiac&rdquo;</p>\n<p>Olympus E-M10 IV with M.Zuiko 40-150mm lens @ 140mm, f/8, 1/25s, ISO 1600. Shot along the Maiden Lake Trail.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Brainiac\"\n\nOlympus E-M10 IV with M.Zuiko 40-150mm lens @ 140mm, f/8, 1/25s, ISO 1600. Shot along the Maiden Lake Trail.\n\n<img src=\"uploads/2025/20250813-0053.jpg\" width=\"600\" height=\"337\" alt=\"cauliflower fungus (I think)\">\n",
+				"content_text": "\"Brainiac\"\n\nOlympus E-M10 IV with M.Zuiko 40-150mm lens @ 140mm, f/8, 1/25s, ISO 1600. Shot along the Maiden Lake Trail.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20250813-0053.jpg\" width=\"600\" height=\"337\" alt=\"cauliflower fungus (I think)\">\n",
 				"date_published": "2025-08-15T06:53:43-07:00",
 				"url": "https://larkfarm.com/2025/08/15/brainiac-olympus-em-iv-with.html"
 			},
@@ -26,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2025/08/15/mountains-near-and-far-olympus.html",
 				
 				"content_html": "<p>&ldquo;Mountains Near and Far&rdquo;</p>\n<p>Olympus E-M10 IV with M.Zuiko 40-150mm lens @ 82mm, f/8, 1/320s, ISO 125. Diamond Peak seen from Maiden Peak Summit Trail.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Mountains Near and Far\"\n\nOlympus E-M10 IV with M.Zuiko 40-150mm lens @ 82mm, f/8, 1/320s, ISO 125. Diamond Peak seen from Maiden Peak Summit Trail.\n\n<img src=\"uploads/2025/20250813-0046.jpg\" width=\"600\" height=\"337\" alt=\"a mountain in the distance\">\n",
+				"content_text": "\"Mountains Near and Far\"\n\nOlympus E-M10 IV with M.Zuiko 40-150mm lens @ 82mm, f/8, 1/320s, ISO 125. Diamond Peak seen from Maiden Peak Summit Trail.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20250813-0046.jpg\" width=\"600\" height=\"337\" alt=\"a mountain in the distance\">\n",
 				"date_published": "2025-08-15T05:48:30-07:00",
 				"url": "https://larkfarm.com/2025/08/15/mountains-near-and-far-olympus.html"
 			},
@@ -34,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2025/08/14/lakeside-view-olympus-em-iv.html",
 				
 				"content_html": "<p>&ldquo;Lakeside View”</p>\n<p>Olympus E-M10 IV with 14-42mm kit lens @ 14mm, f/8, 1/2000s, ISO 5000. Odell Lake and Crescent Lake seen from Maiden Peak.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Lakeside View”\n\nOlympus E-M10 IV with 14-42mm kit lens @ 14mm, f/8, 1/2000s, ISO 5000. Odell Lake and Crescent Lake seen from Maiden Peak.\n\n<img src=\"uploads/2025/20250813-0013.jpg\" width=\"600\" height=\"337\" alt=\"two lakes in distant forest&10;\">\n",
+				"content_text": "\"Lakeside View”\n\nOlympus E-M10 IV with 14-42mm kit lens @ 14mm, f/8, 1/2000s, ISO 5000. Odell Lake and Crescent Lake seen from Maiden Peak.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20250813-0013.jpg\" width=\"600\" height=\"337\" alt=\"two lakes in distant forest&10;\">\n",
 				"date_published": "2025-08-14T05:58:00-07:00",
 				"url": "https://larkfarm.com/2025/08/14/lakeside-view-olympus-em-iv.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://ffmike.micro.blog/2025/08/14/wilderness-dawn-olympus-em-iv.html",
 				
 				"content_html": "<p>&ldquo;Wilderness Dawn&rdquo;</p>\n<p>Olympus E-M10 IV with 14-42mm kit lens @ 14mm, f/3.5, 1/2000s, ISO 250. Middle &amp; South Sister, Cultus Mountain, Broken Top, Mount Bachelor and Crane Prairie Reservoir seen from Maiden Peak.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Wilderness Dawn\"\n\nOlympus E-M10 IV with 14-42mm kit lens @ 14mm, f/3.5, 1/2000s, ISO 250. Middle & South Sister, Cultus Mountain, Broken Top, Mount Bachelor and Crane Prairie Reservoir seen from Maiden Peak.\n\n<img src=\"uploads/2025/20250813-0004.jpg\" width=\"600\" height=\"337\" alt=\"distant mountains in the morning haze\">\n",
+				"content_text": "\"Wilderness Dawn\"\n\nOlympus E-M10 IV with 14-42mm kit lens @ 14mm, f/3.5, 1/2000s, ISO 250. Middle & South Sister, Cultus Mountain, Broken Top, Mount Bachelor and Crane Prairie Reservoir seen from Maiden Peak.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20250813-0004.jpg\" width=\"600\" height=\"337\" alt=\"distant mountains in the morning haze\">\n",
 				"date_published": "2025-08-14T03:52:41-07:00",
 				"url": "https://larkfarm.com/2025/08/14/wilderness-dawn-olympus-em-iv.html"
 			},
@@ -122,7 +162,7 @@
 				"id": "http://ffmike.micro.blog/2025/08/03/swimming-hole-olympus-em-iv.html",
 				
 				"content_html": "<p>&ldquo;Swimming Hole&rdquo;</p>\n<p>Olympus E-M10 IV with M.Zuiko 100-400mm lens @ 200mm, f/14, 1/400s, ISO 1600. Benson Lake seen from Scott Mountain.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Swimming Hole\"\n\nOlympus E-M10 IV with M.Zuiko 100-400mm lens @ 200mm, f/14, 1/400s, ISO 1600. Benson Lake seen from Scott Mountain.\n\n<img src=\"uploads/2025/20250803-0075.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Swimming Hole\"\n\nOlympus E-M10 IV with M.Zuiko 100-400mm lens @ 200mm, f/14, 1/400s, ISO 1600. Benson Lake seen from Scott Mountain.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20250803-0075.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2025-08-03T12:50:24-07:00",
 				"url": "https://larkfarm.com/2025/08/03/swimming-hole-olympus-em-iv.html"
 			},
@@ -130,7 +170,7 @@
 				"id": "http://ffmike.micro.blog/2025/08/03/framed-sisters-olympus-em-iv.html",
 				
 				"content_html": "<p>&ldquo;Framed Sisters&rdquo;</p>\n<p>Olympus E-M10 IV with  7 Artisans 7.5mm f/1.8 fisheye lens @ f/5.6, 1/2000s, ISO 200. Shot from Scott Mountain.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Framed Sisters\"\n\nOlympus E-M10 IV with  7 Artisans 7.5mm f/1.8 fisheye lens @ f/5.6, 1/2000s, ISO 200. Shot from Scott Mountain.\n\n<img src=\"uploads/2025/20250803-0058.jpg\" width=\"600\" height=\"337\" alt=\"three sisters mountains seem through the trees\">\n",
+				"content_text": "\"Framed Sisters\"\n\nOlympus E-M10 IV with  7 Artisans 7.5mm f/1.8 fisheye lens @ f/5.6, 1/2000s, ISO 200. Shot from Scott Mountain.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20250803-0058.jpg\" width=\"600\" height=\"337\" alt=\"three sisters mountains seem through the trees\">\n",
 				"date_published": "2025-08-03T08:17:55-07:00",
 				"url": "https://larkfarm.com/2025/08/03/framed-sisters-olympus-em-iv.html"
 			},
