@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2025/10/10/i-spent-a-good-chunk.html",
+				
+				"content_html": "<p>I spent a good chunk of today hiking 12 1/2 miles with 3000 feet or so of elevation gain so I could spend a few minutes on top of a mountain in 35-degree weather with cold rain and snow flurries and near-zero visibility.</p>\n<p>This is what passes for fun in my retirement.</p>\n",
+				"content_text": "I spent a good chunk of today hiking 12 1/2 miles with 3000 feet or so of elevation gain so I could spend a few minutes on top of a mountain in 35-degree weather with cold rain and snow flurries and near-zero visibility.\n\nThis is what passes for fun in my retirement.\n",
+				"date_published": "2025-10-10T17:16:03-07:00",
+				"url": "https://larkfarm.com/2025/10/10/i-spent-a-good-chunk.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2025/10/09/fruitsplosion-olympus-em-iv-with.html",
+				
+				"content_html": "<p>&ldquo;Fruitsplosion&rdquo;</p>\n<p>Olympus E-M10 IV with 60mm f/2.8 macro lens @ f/4, 1/100s, ISO 320. Found along the Ridgeline Trail.</p>\n<img src=\"uploads/2025/20251008-0035.jpg\" width=\"600\" height=\"337\" alt=\"closeup of a small pear&10;\">\n",
+				"content_text": "\"Fruitsplosion\"\n\nOlympus E-M10 IV with 60mm f/2.8 macro lens @ f/4, 1/100s, ISO 320. Found along the Ridgeline Trail.\n\n<img src=\"uploads/2025/20251008-0035.jpg\" width=\"600\" height=\"337\" alt=\"closeup of a small pear&10;\">\n",
+				"date_published": "2025-10-09T05:00:07-07:00",
+				"url": "https://larkfarm.com/2025/10/09/fruitsplosion-olympus-em-iv-with.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2025/10/08/trailside-art-olympus-em-iv.html",
 				
 				"content_html": "<p>&ldquo;Trailside Art&rdquo;</p>\n<p>Olympus E-M10 IV with 60mm f/2.8 macro lens @ f/5.6, 1/15s, ISO 2500. Found along the Ridgeline Trail.</p>\n<img src=\"uploads/2025/20251008-0029.jpg\" width=\"600\" height=\"337\" alt=\"glass ornament hiding in a tree\">\n",
@@ -33,16 +49,16 @@
 			{
 				"id": "http://ffmike.micro.blog/2025/10/06/catching-the-sun-olympus-em.html",
 				
-				"content_html": "<p>&ldquo;Catching the Sun&rdquo;</p>\n<p>Olympus E-M10 IV with 60mm f/2.8 macro lens @ f/4, 1/125s, ISO 160. Shot at Wild Iris Ridge.</p>\n<img src=\"uploads/2025/20251006-0025.jpg\" width=\"600\" height=\"450\" alt=\"backlit seed head\">\n",
-				"content_text": "\"Catching the Sun\"\n\nOlympus E-M10 IV with 60mm f/2.8 macro lens @ f/4, 1/125s, ISO 160. Shot at Wild Iris Ridge.\n\n<img src=\"uploads/2025/20251006-0025.jpg\" width=\"600\" height=\"450\" alt=\"backlit seed head\">\n",
+				"content_html": "<p>&ldquo;Catching the Sun&rdquo;</p>\n<p>Olympus E-M10 IV with 60mm f/2.8 macro lens @ f/4, 1/125s, ISO 160. Shot at Wild Iris Ridge.</p>\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251006-0025.jpg\" width=\"600\" height=\"450\" alt=\"backlit seed head\">\n",
+				"content_text": "\"Catching the Sun\"\n\nOlympus E-M10 IV with 60mm f/2.8 macro lens @ f/4, 1/125s, ISO 160. Shot at Wild Iris Ridge.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251006-0025.jpg\" width=\"600\" height=\"450\" alt=\"backlit seed head\">\n",
 				"date_published": "2025-10-06T12:58:02-07:00",
 				"url": "https://larkfarm.com/2025/10/06/catching-the-sun-olympus-em.html"
 			},
 			{
 				"id": "http://ffmike.micro.blog/2025/10/05/cedar-olympus-em-iv-with.html",
 				
-				"content_html": "<p>&ldquo;Cedar&rdquo;</p>\n<p>Olympus E-M10 IV with 60mm f/2.8 macro lens @ f/2.8, 1/500s, ISO 500. Shot at Mount Pisgah Arboretum.</p>\n<img src=\"uploads/2025/20251005-0010.jpg\" width=\"600\" height=\"337\" alt=\"close-up of cedar leaves\">\n",
-				"content_text": "\"Cedar\"\n\nOlympus E-M10 IV with 60mm f/2.8 macro lens @ f/2.8, 1/500s, ISO 500. Shot at Mount Pisgah Arboretum.\n\n<img src=\"uploads/2025/20251005-0010.jpg\" width=\"600\" height=\"337\" alt=\"close-up of cedar leaves\">\n",
+				"content_html": "<p>&ldquo;Cedar&rdquo;</p>\n<p>Olympus E-M10 IV with 60mm f/2.8 macro lens @ f/2.8, 1/500s, ISO 500. Shot at Mount Pisgah Arboretum.</p>\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251005-0010.jpg\" width=\"600\" height=\"337\" alt=\"close-up of cedar leaves\">\n",
+				"content_text": "\"Cedar\"\n\nOlympus E-M10 IV with 60mm f/2.8 macro lens @ f/2.8, 1/500s, ISO 500. Shot at Mount Pisgah Arboretum.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251005-0010.jpg\" width=\"600\" height=\"337\" alt=\"close-up of cedar leaves\">\n",
 				"date_published": "2025-10-05T15:27:53-07:00",
 				"url": "https://larkfarm.com/2025/10/05/cedar-olympus-em-iv-with.html"
 			},
