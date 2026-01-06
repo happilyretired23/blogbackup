@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/06/dreaming-gulls-the-nd-filter.html",
+				
+				"content_html": "<p>&ldquo;Dreaming Gulls&rdquo;</p>\n<p>The ND10 filter I was using at Bob Creek gave the original a horrible greenish cast, but reprocessing as monochrome it actually turned out OK.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Dreaming Gulls\"\n\nThe ND10 filter I was using at Bob Creek gave the original a horrible greenish cast, but reprocessing as monochrome it actually turned out OK.\n\n<img src=\"uploads/2026/20260105-0013.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-06T05:11:24-08:00",
+				"url": "https://larkfarm.com/2026/01/06/dreaming-gulls-the-nd-filter.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/05/glisten-tiniest-mushrooms-along-the.html",
+				
+				"content_html": "<p>&ldquo;Glisten&rdquo;</p>\n<p>Tiniest mushrooms along the Ridgeline Trail. Had to thrash through some brambles to get this shot but it was worth it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Glisten\"\n\nTiniest mushrooms along the Ridgeline Trail. Had to thrash through some brambles to get this shot but it was worth it.\n\n<img src=\"uploads/2026/20260103-0023.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-05T05:34:39-08:00",
+				"url": "https://larkfarm.com/2026/01/05/glisten-tiniest-mushrooms-along-the.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/04/moss-flamingos-like-lawn-flamingos.html",
+				
+				"content_html": "<p>&ldquo;Moss Flamingos&rdquo;</p>\n<p>Like lawn flamingos, but different.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Moss Flamingos\"\n\nLike lawn flamingos, but different.\n\n<img src=\"uploads/2026/20260103-0013.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-04T17:49:19-08:00",
+				"url": "https://larkfarm.com/2026/01/04/moss-flamingos-like-lawn-flamingos.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/04/cape-perpetua-spray-i-rather.html",
+				
+				"content_html": "<p>&ldquo;Cape Perpetua Spray&rdquo;</p>\n<p>I rather like the ethereal look of long exposures of crashing waves and foam. I need to find some subjects other than rocks to experiment with though. Fortunately stormy weather is pretty easy to come by at the Oregon coast.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Cape Perpetua Spray\"\n\nI rather like the ethereal look of long exposures of crashing waves and foam. I need to find some subjects other than rocks to experiment with though. Fortunately stormy weather is pretty easy to come by at the Oregon coast.\n\n<img src=\"uploads/2026/20260104-0053.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-04T17:25:15-08:00",
+				"url": "https://larkfarm.com/2026/01/04/cape-perpetua-spray-i-rather.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/04/cascade-trailside-stream-along-the.html",
+				
+				"content_html": "<p>&ldquo;Cascade&rdquo;</p>\n<p>Trailside stream along the Glynn Creek Trail.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Cascade\"\n\nTrailside stream along the Glynn Creek Trail.\n\n<img src=\"uploads/2026/20260104-0013.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-04T15:50:06-08:00",
+				"url": "https://larkfarm.com/2026/01/04/cascade-trailside-stream-along-the.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/04/lights-predawn-moonlight-and-lighthouse.html",
+				
+				"content_html": "<p>&ldquo;Lights&rdquo;</p>\n<p>Pre-dawn moonlight and lighthouse at Heceta Head.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Lights\"\n\nPre-dawn moonlight and lighthouse at Heceta Head.\n\n<img src=\"uploads/2026/20260104-0007.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-04T13:46:19-08:00",
+				"url": "https://larkfarm.com/2026/01/04/lights-predawn-moonlight-and-lighthouse.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/04/plenty-of-surf-around-cape.html",
 				
 				"content_html": "<p>Plenty of surf around Cape Perpetua this morning (this is about halfway between low &amp; high tide) (cc: <a href=\"https://micro.blog/jean\">@jean</a>)</p>\n<!-- raw HTML omitted -->\n",
@@ -130,7 +178,7 @@
 				"id": "http://ffmike.micro.blog/2025/12/29/bad-luck-in-the-woods.html",
 				
 				"content_html": "<p>&ldquo;Bad Luck in the Woods&rdquo;</p>\n<p>Never know what you&rsquo;ll find tossed out at trailside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Bad Luck in the Woods\"\n\nNever know what you'll find tossed out at trailside.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251228-0050.jpg\" width=\"600\" height=\"337\" alt=\"Broken mirror reflecting trees and sky\">\n",
+				"content_text": "\"Bad Luck in the Woods\"\n\nNever know what you'll find tossed out at trailside.\n\n<img src=\"uploads/2025/20251228-0050.jpg\" width=\"600\" height=\"337\" alt=\"Broken mirror reflecting trees and sky\">\n",
 				"date_published": "2025-12-29T09:31:06-08:00",
 				"url": "https://larkfarm.com/2025/12/29/bad-luck-in-the-woods.html"
 			},
@@ -218,7 +266,7 @@
 				"id": "http://ffmike.micro.blog/2025/12/25/ferndrop.html",
 				
 				"content_html": "<p>&ldquo;Ferndrop&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Ferndrop\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251224-0024.jpg\" width=\"600\" height=\"337\" alt=\"fern with a drop of water\">\n",
+				"content_text": "\"Ferndrop\"\n\n<img src=\"uploads/2025/20251224-0024.jpg\" width=\"600\" height=\"337\" alt=\"fern with a drop of water\">\n",
 				"date_published": "2025-12-25T08:47:31-08:00",
 				"url": "https://larkfarm.com/2025/12/25/ferndrop.html"
 			},
