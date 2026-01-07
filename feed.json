@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/07/over-the-parapet-tiny-mushroom.html",
+				
+				"content_html": "<p>&ldquo;Over the Parapet&rdquo;</p>\n<p>Tiny mushroom at Mount Pisgah.</p>\n",
+				"content_text": "\"Over the Parapet\"\n\nTiny mushroom at Mount Pisgah. \n",
+				"date_published": "2026-01-07T05:50:35-08:00",
+				"url": "https://larkfarm.com/2026/01/07/over-the-parapet-tiny-mushroom.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/06/sea-and-sky-second-exposure.html",
+				
+				"content_html": "<p>&ldquo;Sea and Sky&rdquo;</p>\n<p>60-second exposure (with ND10 filter + in-camera ND5) turned this day of wind and surf into this dreamy image.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Sea and Sky\"\n\n60-second exposure (with ND10 filter + in-camera ND5) turned this day of wind and surf into this dreamy image.\n\n<img src=\"uploads/2026/20260105-0095.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-06T08:25:52-08:00",
+				"url": "https://larkfarm.com/2026/01/06/sea-and-sky-second-exposure.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/06/surfing-gulls.html",
+				
+				"content_html": "<p>&ldquo;Surfing Gulls&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Surfing Gulls\"\n\n<img src=\"uploads/2026/20260105-0082.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-06T06:44:27-08:00",
+				"url": "https://larkfarm.com/2026/01/06/surfing-gulls.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/06/dreaming-gulls-the-nd-filter.html",
 				
 				"content_html": "<p>&ldquo;Dreaming Gulls&rdquo;</p>\n<p>The ND10 filter I was using at Bob Creek gave the original a horrible greenish cast, but reprocessing as monochrome it actually turned out OK.</p>\n<!-- raw HTML omitted -->\n",
@@ -178,7 +202,7 @@
 				"id": "http://ffmike.micro.blog/2025/12/29/bad-luck-in-the-woods.html",
 				
 				"content_html": "<p>&ldquo;Bad Luck in the Woods&rdquo;</p>\n<p>Never know what you&rsquo;ll find tossed out at trailside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Bad Luck in the Woods\"\n\nNever know what you'll find tossed out at trailside.\n\n<img src=\"uploads/2025/20251228-0050.jpg\" width=\"600\" height=\"337\" alt=\"Broken mirror reflecting trees and sky\">\n",
+				"content_text": "\"Bad Luck in the Woods\"\n\nNever know what you'll find tossed out at trailside.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251228-0050.jpg\" width=\"600\" height=\"337\" alt=\"Broken mirror reflecting trees and sky\">\n",
 				"date_published": "2025-12-29T09:31:06-08:00",
 				"url": "https://larkfarm.com/2025/12/29/bad-luck-in-the-woods.html"
 			},
@@ -266,7 +290,7 @@
 				"id": "http://ffmike.micro.blog/2025/12/25/ferndrop.html",
 				
 				"content_html": "<p>&ldquo;Ferndrop&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Ferndrop\"\n\n<img src=\"uploads/2025/20251224-0024.jpg\" width=\"600\" height=\"337\" alt=\"fern with a drop of water\">\n",
+				"content_text": "\"Ferndrop\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251224-0024.jpg\" width=\"600\" height=\"337\" alt=\"fern with a drop of water\">\n",
 				"date_published": "2025-12-25T08:47:31-08:00",
 				"url": "https://larkfarm.com/2025/12/25/ferndrop.html"
 			},
