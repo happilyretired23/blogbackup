@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/09/spores-playing-around-with-a.html",
+				
+				"content_html": "<p>&ldquo;Spores&rdquo;</p>\n<p>Playing around with a new flash&hellip;clearly didn&rsquo;t get enough light for noise reduction here, but I still like the feel.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Spores\"\n\nPlaying around with a new flash...clearly didn't get enough light for noise reduction here, but I still like the feel.\n\n<img src=\"uploads/2026/20260108-0019.jpg\" width=\"600\" height=\"337\" alt=\"bottom of a fern leaf\">\n",
+				"date_published": "2026-01-09T05:24:40-08:00",
+				"url": "https://larkfarm.com/2026/01/09/spores-playing-around-with-a.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/07/tiny-dam-i-suppose-its.html",
+				
+				"content_html": "<p>&ldquo;Tiny Dam&rdquo;</p>\n<p>I suppose it&rsquo;s old tech by now, but I&rsquo;m always amazed by image stabilization in modern cameras. This is a two-second handheld time exposure.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Tiny Dam\"\n\nI suppose it's old tech by now, but I'm always amazed by image stabilization in modern cameras. This is a two-second handheld time exposure.\n\n<img src=\"uploads/2026/20260106-0026.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-07T16:03:51-08:00",
+				"url": "https://larkfarm.com/2026/01/07/tiny-dam-i-suppose-its.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/07/moss-garden.html",
+				
+				"content_html": "<p>&ldquo;Moss Garden&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Moss Garden\"\n\n<img src=\"uploads/2026/20260106-0016.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-07T09:17:47-08:00",
+				"url": "https://larkfarm.com/2026/01/07/moss-garden.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/07/over-the-parapet-tiny-mushroom.html",
 				
-				"content_html": "<p>&ldquo;Over the Parapet&rdquo;</p>\n<p>Tiny mushroom at Mount Pisgah.</p>\n",
-				"content_text": "\"Over the Parapet\"\n\nTiny mushroom at Mount Pisgah. \n",
+				"content_html": "<p>&ldquo;Over the Parapet&rdquo;</p>\n<p>Tiny mushroom at Mount Pisgah.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Over the Parapet\"\n\nTiny mushroom at Mount Pisgah. \n\n<img src=\"uploads/2026/bbac12bad9.jpg\">\n",
 				"date_published": "2026-01-07T05:50:35-08:00",
 				"url": "https://larkfarm.com/2026/01/07/over-the-parapet-tiny-mushroom.html"
 			},
@@ -26,7 +50,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/06/surfing-gulls.html",
 				
 				"content_html": "<p>&ldquo;Surfing Gulls&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Surfing Gulls\"\n\n<img src=\"uploads/2026/20260105-0082.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Surfing Gulls\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260105-0082.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-06T06:44:27-08:00",
 				"url": "https://larkfarm.com/2026/01/06/surfing-gulls.html"
 			},
@@ -34,7 +58,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/06/dreaming-gulls-the-nd-filter.html",
 				
 				"content_html": "<p>&ldquo;Dreaming Gulls&rdquo;</p>\n<p>The ND10 filter I was using at Bob Creek gave the original a horrible greenish cast, but reprocessing as monochrome it actually turned out OK.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Dreaming Gulls\"\n\nThe ND10 filter I was using at Bob Creek gave the original a horrible greenish cast, but reprocessing as monochrome it actually turned out OK.\n\n<img src=\"uploads/2026/20260105-0013.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Dreaming Gulls\"\n\nThe ND10 filter I was using at Bob Creek gave the original a horrible greenish cast, but reprocessing as monochrome it actually turned out OK.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260105-0013.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-06T05:11:24-08:00",
 				"url": "https://larkfarm.com/2026/01/06/dreaming-gulls-the-nd-filter.html"
 			},
