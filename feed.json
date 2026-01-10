@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/10/no-parking-bud-possibly-the.html",
+				
+				"content_html": "<p>&ldquo;No Parking Bud&rdquo;</p>\n<p>Possibly the most Eugene parking meter ever.</p>\n",
+				"content_text": "\"No Parking Bud\"\n\nPossibly the most Eugene parking meter ever.\n",
+				"date_published": "2026-01-10T05:54:39-08:00",
+				"url": "https://larkfarm.com/2026/01/10/no-parking-bud-possibly-the.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/10/circle-of-mushrooms-these-tiny.html",
+				
+				"content_html": "<p>&ldquo;Circle of Mushrooms&rdquo;</p>\n<p>These tiny little guys were only about an inch across all told.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Circle of Mushrooms\"\n\nThese tiny little guys were only about an inch across all told.\n\n<img src=\"uploads/2026/20260108-0002.jpg\" width=\"600\" height=\"337\" alt=\"8 tiny mushrooms on a tree trunk\">\n",
+				"date_published": "2026-01-10T04:46:47-08:00",
+				"url": "https://larkfarm.com/2026/01/10/circle-of-mushrooms-these-tiny.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/09/pigs-in-a-tree-i.html",
+				
+				"content_html": "<p>&ldquo;Pigs in a Tree&rdquo;</p>\n<p>I dunno, maybe nobody else sees round heads with snouts here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Pigs in a Tree\"\n\nI dunno, maybe nobody else sees round heads with snouts here.\n\n<img src=\"uploads/2026/20260108-0076.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-09T09:48:19-08:00",
+				"url": "https://larkfarm.com/2026/01/09/pigs-in-a-tree-i.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/09/its-winter-dammit-there-was.html",
+				
+				"content_html": "<p>&ldquo;It&rsquo;s Winter Dammit!&rdquo;</p>\n<p>There was just enough snow at the top of Spencer Butte for some dedicated hiker to build a tiny snowman.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"It's Winter Dammit!\"\n\nThere was just enough snow at the top of Spencer Butte for some dedicated hiker to build a tiny snowman.\n\n<img src=\"uploads/2026/6611ebfe5b.jpg\">\n",
+				"date_published": "2026-01-09T06:34:00-08:00",
+				"url": "https://larkfarm.com/2026/01/09/its-winter-dammit-there-was.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/09/spores-playing-around-with-a.html",
 				
 				"content_html": "<p>&ldquo;Spores&rdquo;</p>\n<p>Playing around with a new flash&hellip;clearly didn&rsquo;t get enough light for noise reduction here, but I still like the feel.</p>\n<!-- raw HTML omitted -->\n",
@@ -18,7 +50,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/07/tiny-dam-i-suppose-its.html",
 				
 				"content_html": "<p>&ldquo;Tiny Dam&rdquo;</p>\n<p>I suppose it&rsquo;s old tech by now, but I&rsquo;m always amazed by image stabilization in modern cameras. This is a two-second handheld time exposure.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Tiny Dam\"\n\nI suppose it's old tech by now, but I'm always amazed by image stabilization in modern cameras. This is a two-second handheld time exposure.\n\n<img src=\"uploads/2026/20260106-0026.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Tiny Dam\"\n\nI suppose it's old tech by now, but I'm always amazed by image stabilization in modern cameras. This is a two-second handheld time exposure.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260106-0026.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-07T16:03:51-08:00",
 				"url": "https://larkfarm.com/2026/01/07/tiny-dam-i-suppose-its.html"
 			},
@@ -26,7 +58,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/07/moss-garden.html",
 				
 				"content_html": "<p>&ldquo;Moss Garden&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Moss Garden\"\n\n<img src=\"uploads/2026/20260106-0016.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Moss Garden\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260106-0016.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-07T09:17:47-08:00",
 				"url": "https://larkfarm.com/2026/01/07/moss-garden.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/06/sea-and-sky-second-exposure.html",
 				
 				"content_html": "<p>&ldquo;Sea and Sky&rdquo;</p>\n<p>60-second exposure (with ND10 filter + in-camera ND5) turned this day of wind and surf into this dreamy image.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Sea and Sky\"\n\n60-second exposure (with ND10 filter + in-camera ND5) turned this day of wind and surf into this dreamy image.\n\n<img src=\"uploads/2026/20260105-0095.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Sea and Sky\"\n\n60-second exposure (with ND10 filter + in-camera ND5) turned this day of wind and surf into this dreamy image.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260105-0095.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-06T08:25:52-08:00",
 				"url": "https://larkfarm.com/2026/01/06/sea-and-sky-second-exposure.html"
 			},
@@ -90,7 +122,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/04/cascade-trailside-stream-along-the.html",
 				
 				"content_html": "<p>&ldquo;Cascade&rdquo;</p>\n<p>Trailside stream along the Glynn Creek Trail.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Cascade\"\n\nTrailside stream along the Glynn Creek Trail.\n\n<img src=\"uploads/2026/20260104-0013.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Cascade\"\n\nTrailside stream along the Glynn Creek Trail.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260104-0013.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-04T15:50:06-08:00",
 				"url": "https://larkfarm.com/2026/01/04/cascade-trailside-stream-along-the.html"
 			},
