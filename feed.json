@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/19/cascade-of-light-second-exposure.html",
+				
+				"content_html": "<p>&ldquo;Cascade of Light&rdquo;</p>\n<p>2-second exposure from behind Upper Trestle Creek Falls.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Cascade of Light\"\n\n2-second exposure from behind Upper Trestle Creek Falls.\n\n<img src=\"uploads/2026/20260117-0075.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-19T03:31:47-08:00",
+				"url": "https://larkfarm.com/2026/01/19/cascade-of-light-second-exposure.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/18/ghost-leaf.html",
+				
+				"content_html": "<p>&ldquo;Ghost Leaf&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Ghost Leaf\"\n\n<img src=\"uploads/2026/20260117-0067.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-18T15:49:25-08:00",
+				"url": "https://larkfarm.com/2026/01/18/ghost-leaf.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/18/clear-and-cold-with-bonus.html",
+				
+				"content_html": "<p>&ldquo;Clear and Cold&rdquo;</p>\n<p>With bonus reflected trees.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Clear and Cold\"\n\nWith bonus reflected trees.\n\n<img src=\"uploads/2026/20260117-0061.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-18T10:21:45-08:00",
+				"url": "https://larkfarm.com/2026/01/18/clear-and-cold-with-bonus.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/18/creation-blues-actually-frost-on.html",
+				
+				"content_html": "<p>&ldquo;Creation Blues&rdquo;</p>\n<p>Actually, frost on top of my car this morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Creation Blues\"\n\nActually, frost on top of my car this morning.\n\n<img src=\"uploads/2026/e1a8802d26.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
+				"date_published": "2026-01-18T08:07:31-08:00",
+				"url": "https://larkfarm.com/2026/01/18/creation-blues-actually-frost-on.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/18/quality-of-light-another-view.html",
+				
+				"content_html": "<p>&ldquo;Quality of Light&rdquo;</p>\n<p>Another view of Brice Creek Falls.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Quality of Light\"\n\nAnother view of Brice Creek Falls.\n\n<img src=\"uploads/2026/20260117-0029.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-18T06:51:54-08:00",
+				"url": "https://larkfarm.com/2026/01/18/quality-of-light-another-view.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/18/art-of-a-river-from.html",
+				
+				"content_html": "<p>&ldquo;Art of a River&rdquo;</p>\n<p>From a technical standpoint, this is a pretty horrible photo. But I still like the way it evokes the confusion of the water on Brice Creek yesterday.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Art of a River\"\n\nFrom a technical standpoint, this is a pretty horrible photo. But I still like the way it evokes the confusion of the water on Brice Creek yesterday.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260117-0011.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-18T05:08:52-08:00",
+				"url": "https://larkfarm.com/2026/01/18/art-of-a-river-from.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/17/brice-creek-falls-one-of.html",
 				
 				"content_html": "<p>&ldquo;Brice Creek Falls&rdquo;</p>\n<p>One of the stops on today&rsquo;s 16-mile hike. I&rsquo;m so glad to live in Oregon.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +90,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/15/echo-of-a-farm-im.html",
 				
 				"content_html": "<p>&ldquo;Echo of a Farm&rdquo;</p>\n<p>I&rsquo;m pretty sure this bit of ironmongery is an old well head. Now though it&rsquo;s a lichen farm.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Echo of a Farm\"\n\nI'm pretty sure this bit of ironmongery is an old well head. Now though it's a lichen farm.\n\n<img src=\"uploads/2026/20260115-0045.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Echo of a Farm\"\n\nI'm pretty sure this bit of ironmongery is an old well head. Now though it's a lichen farm.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260115-0045.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-15T17:06:34-08:00",
 				"url": "https://larkfarm.com/2026/01/15/echo-of-a-farm-im.html"
 			},
