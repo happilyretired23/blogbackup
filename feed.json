@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/21/sea-of-fog-as-id.html",
+				
+				"content_html": "<p>&ldquo;Sea of Fog&rdquo;</p>\n<p>As I&rsquo;d hoped, the summit of Mount Pisgah was above the valley fog, and I took photos in the dawn light until my fingers started hurting too much to keep going and I had to get back to hiking to warm up.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Sea of Fog\"\n\nAs I'd hoped, the summit of Mount Pisgah was above the valley fog, and I took photos in the dawn light until my fingers started hurting too much to keep going and I had to get back to hiking to warm up.\n\n<img src=\"uploads/2026/20260121-0098.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-21T12:10:11-08:00",
+				"url": "https://larkfarm.com/2026/01/21/sea-of-fog-as-id.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/21/degrees-and-foggy-out-there.html",
+				
+				"content_html": "<p>28 degrees and foggy out there this morning. Perfect day for a hike!</p>\n<p>(It&rsquo;s always a perfect day for a hike).</p>\n",
+				"content_text": "28 degrees and foggy out there this morning. Perfect day for a hike!\n\n(It's always a perfect day for a hike).\n",
+				"date_published": "2026-01-21T04:56:30-08:00",
+				"url": "https://larkfarm.com/2026/01/21/degrees-and-foggy-out-there.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/20/on-the-plus-side-osprey.html",
+				
+				"content_html": "<p>On the plus side, Osprey replaced my old Duro 15 for free under their &ldquo;Almighty Guarantee&rdquo; after determining they couldn&rsquo;t mend the hipbelt pockets.</p>\n<p>On the minus side, the new design is disastrously worse for my use (attaching camera gear via anchor points that are no longer there) so I&rsquo;m not sure what I&rsquo;m going to do with the damned thing.</p>\n",
+				"content_text": "On the plus side, Osprey replaced my old Duro 15 for free under their \"Almighty Guarantee\" after determining they couldn't mend the hipbelt pockets.\n\nOn the minus side, the new design is disastrously worse for my use (attaching camera gear via anchor points that are no longer there) so I'm not sure what I'm going to do with the damned thing.\n",
+				"date_published": "2026-01-20T16:26:43-08:00",
+				"url": "https://larkfarm.com/2026/01/20/on-the-plus-side-osprey.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/20/new-growth.html",
+				
+				"content_html": "<p>&ldquo;New Growth&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"New Growth\"\n\n<img src=\"uploads/2026/20260119-0071.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-20T13:40:27-08:00",
+				"url": "https://larkfarm.com/2026/01/20/new-growth.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/20/predator-success-seen-on-the.html",
+				
+				"content_html": "<p>&ldquo;Predator Success&rdquo;</p>\n<p>Seen on the way to Blanket Creek Falls.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Predator Success\"\n\nSeen on the way to Blanket Creek Falls.\n\n<img src=\"uploads/2026/20260119-0020.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-20T08:49:23-08:00",
+				"url": "https://larkfarm.com/2026/01/20/predator-success-seen-on-the.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/20/out-front-it-was-a.html",
+				
+				"content_html": "<p>&ldquo;Out Front&rdquo;</p>\n<p>It was a bit tough walking the dog in below-freezing temperatures this morning, but taking the camera along made it more pleasant. If only I could train the dog to sit while I compose and focus!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Out Front\"\n\nIt was a bit tough walking the dog in below-freezing temperatures this morning, but taking the camera along made it more pleasant. If only I could train the dog to sit while I compose and focus!\n\n<img src=\"uploads/2026/8305163a24.jpg\">\n",
+				"date_published": "2026-01-20T08:00:23-08:00",
+				"url": "https://larkfarm.com/2026/01/20/out-front-it-was-a.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/20/blanket-creek-falls-i-spent.html",
 				
 				"content_html": "<p>&ldquo;Blanket Creek Falls&rdquo;</p>\n<p>I spent several hours on some serious bushwhacking yesterday to get to the spot where I could take this picture. Not 100% sure it was worth the risk, but it did turn out to be a very pretty spot that I&rsquo;m sure almost no one ever sees.</p>\n<!-- raw HTML omitted -->\n",
@@ -26,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/19/reaching-just-some-moss-hanging.html",
 				
 				"content_html": "<p>&ldquo;Reaching&rdquo;</p>\n<p>Just some moss hanging on to a cliff face.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Reaching\"\n\nJust some moss hanging on to a cliff face.\n\n<img src=\"uploads/2026/20260117-0121.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Reaching\"\n\nJust some moss hanging on to a cliff face.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260117-0121.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-19T05:03:48-08:00",
 				"url": "https://larkfarm.com/2026/01/19/reaching-just-some-moss-hanging.html"
 			},
@@ -34,7 +82,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/19/cascade-of-light-second-exposure.html",
 				
 				"content_html": "<p>&ldquo;Cascade of Light&rdquo;</p>\n<p>2-second exposure from behind Upper Trestle Creek Falls.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Cascade of Light\"\n\n2-second exposure from behind Upper Trestle Creek Falls.\n\n<img src=\"uploads/2026/20260117-0075.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Cascade of Light\"\n\n2-second exposure from behind Upper Trestle Creek Falls.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260117-0075.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-19T03:31:47-08:00",
 				"url": "https://larkfarm.com/2026/01/19/cascade-of-light-second-exposure.html"
 			},
@@ -42,7 +90,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/18/ghost-leaf.html",
 				
 				"content_html": "<p>&ldquo;Ghost Leaf&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Ghost Leaf\"\n\n<img src=\"uploads/2026/20260117-0067.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Ghost Leaf\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260117-0067.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-18T15:49:25-08:00",
 				"url": "https://larkfarm.com/2026/01/18/ghost-leaf.html"
 			},
@@ -58,7 +106,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/18/creation-blues-actually-frost-on.html",
 				
 				"content_html": "<p>&ldquo;Creation Blues&rdquo;</p>\n<p>Actually, frost on top of my car this morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Creation Blues\"\n\nActually, frost on top of my car this morning.\n\n<img src=\"uploads/2026/e1a8802d26.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
+				"content_text": "\"Creation Blues\"\n\nActually, frost on top of my car this morning.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/e1a8802d26.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
 				"date_published": "2026-01-18T08:07:31-08:00",
 				"url": "https://larkfarm.com/2026/01/18/creation-blues-actually-frost-on.html"
 			},
@@ -66,7 +114,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/18/quality-of-light-another-view.html",
 				
 				"content_html": "<p>&ldquo;Quality of Light&rdquo;</p>\n<p>Another view of Brice Creek Falls.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Quality of Light\"\n\nAnother view of Brice Creek Falls.\n\n<img src=\"uploads/2026/20260117-0029.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Quality of Light\"\n\nAnother view of Brice Creek Falls.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260117-0029.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-18T06:51:54-08:00",
 				"url": "https://larkfarm.com/2026/01/18/quality-of-light-another-view.html"
 			},
@@ -82,7 +130,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/17/brice-creek-falls-one-of.html",
 				
 				"content_html": "<p>&ldquo;Brice Creek Falls&rdquo;</p>\n<p>One of the stops on today&rsquo;s 16-mile hike. I&rsquo;m so glad to live in Oregon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Brice Creek Falls\"\n\nOne of the stops on today's 16-mile hike. I'm so glad to live in Oregon.\n\n<img src=\"uploads/2026/20260117-0023.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Brice Creek Falls\"\n\nOne of the stops on today's 16-mile hike. I'm so glad to live in Oregon.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260117-0023.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-17T17:01:59-08:00",
 				"url": "https://larkfarm.com/2026/01/17/brice-creek-falls-one-of.html"
 			},
@@ -90,7 +138,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/16/confusion-the-gardening-sites-tell.html",
 				
 				"content_html": "<p>&ldquo;Confusion&rdquo;</p>\n<p>The gardening sites tell me azaleas bloom in April or May in Zone 8b, where I live. So according to this bush down the road I&rsquo;ve misplaced at least two months somewhere.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Confusion\"\n\nThe gardening sites tell me azaleas bloom in April or May in Zone 8b, where I live. So according to this bush down the road I've misplaced at least two months somewhere.\n\n<img src=\"uploads/2026/20260115-0075.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Confusion\"\n\nThe gardening sites tell me azaleas bloom in April or May in Zone 8b, where I live. So according to this bush down the road I've misplaced at least two months somewhere.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260115-0075.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-16T16:36:28-08:00",
 				"url": "https://larkfarm.com/2026/01/16/confusion-the-gardening-sites-tell.html"
 			},
@@ -98,7 +146,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/16/forest-plesiosaur-prehistoric-animal-sighting.html",
 				
 				"content_html": "<p>&ldquo;Forest Plesiosaur&rdquo;</p>\n<p>Prehistoric animal sighting in the fog.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Forest Plesiosaur\"\n\nPrehistoric animal sighting in the fog.\n\n<img src=\"uploads/2026/20260115-0058.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Forest Plesiosaur\"\n\nPrehistoric animal sighting in the fog.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260115-0058.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-16T05:35:04-08:00",
 				"url": "https://larkfarm.com/2026/01/16/forest-plesiosaur-prehistoric-animal-sighting.html"
 			},
@@ -226,7 +274,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/12/frostmelt-walking-the-trail-in.html",
 				
 				"content_html": "<p>&ldquo;Frostmelt&rdquo;</p>\n<p>Walking the trail in bright sun after freezing fog resulted in millions of sparkling drops everywhere.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Frostmelt\"\n\nWalking the trail in bright sun after freezing fog resulted in millions of sparkling drops everywhere.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260111-0016.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Frostmelt\"\n\nWalking the trail in bright sun after freezing fog resulted in millions of sparkling drops everywhere.\n\n<img src=\"uploads/2026/20260111-0016.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-12T06:47:26-08:00",
 				"url": "https://larkfarm.com/2026/01/12/frostmelt-walking-the-trail-in.html"
 			},
@@ -242,7 +290,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/11/escape.html",
 				
 				"content_html": "<p>&ldquo;Escape&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Escape\"\n\n<img src=\"uploads/2026/20260110-0028.jpg\" width=\"600\" height=\"338\" alt=\"succulents growing over the edge of a planter\">\n",
+				"content_text": "\"Escape\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260110-0028.jpg\" width=\"600\" height=\"338\" alt=\"succulents growing over the edge of a planter\">\n",
 				"date_published": "2026-01-11T05:14:56-08:00",
 				"url": "https://larkfarm.com/2026/01/11/escape.html"
 			},
@@ -250,7 +298,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/10/spring-preview-spent-some-time.html",
 				
 				"content_html": "<p>&ldquo;Spring Preview&rdquo;</p>\n<p>Spent some time in my yard playing with a new-to-me lens (Sony 1.8/35 SAM on an A58). Pretty noisy even at fairly low ISO but I got some nice macro shots with pleasing background blur.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Spring Preview\"\n\nSpent some time in my yard playing with a new-to-me lens (Sony 1.8/35 SAM on an A58). Pretty noisy even at fairly low ISO but I got some nice macro shots with pleasing background blur.\n\n<img src=\"uploads/2026/20260110-0014.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
+				"content_text": "\"Spring Preview\"\n\nSpent some time in my yard playing with a new-to-me lens (Sony 1.8/35 SAM on an A58). Pretty noisy even at fairly low ISO but I got some nice macro shots with pleasing background blur.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260110-0014.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
 				"date_published": "2026-01-10T17:04:17-08:00",
 				"url": "https://larkfarm.com/2026/01/10/spring-preview-spent-some-time.html"
 			},
@@ -258,7 +306,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/10/butterflies-in-the-rain-another.html",
 				
 				"content_html": "<p>&ldquo;Butterflies in the Rain&rdquo;</p>\n<p>Another of Eugene&rsquo;s many murals.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Butterflies in the Rain\"\n\nAnother of Eugene's many murals.\n\n<img src=\"uploads/2026/20260108-0082.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Butterflies in the Rain\"\n\nAnother of Eugene's many murals.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260108-0082.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-10T10:18:15-08:00",
 				"url": "https://larkfarm.com/2026/01/10/butterflies-in-the-rain-another.html"
 			},
@@ -266,7 +314,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/10/weathered-wave-architectural-detail-from.html",
 				
 				"content_html": "<p>&ldquo;Weathered Wave&rdquo;</p>\n<p>Architectural detail from Eugene Fire Station #1 with (obviously) some cinematic post-processing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Weathered Wave\"\n\nArchitectural detail from Eugene Fire Station #1 with (obviously) some cinematic post-processing.\n\n<img src=\"uploads/2026/20260101-0022.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Weathered Wave\"\n\nArchitectural detail from Eugene Fire Station #1 with (obviously) some cinematic post-processing.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260101-0022.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-10T07:36:10-08:00",
 				"url": "https://larkfarm.com/2026/01/10/weathered-wave-architectural-detail-from.html"
 			},
@@ -378,7 +426,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/04/cape-perpetua-spray-i-rather.html",
 				
 				"content_html": "<p>&ldquo;Cape Perpetua Spray&rdquo;</p>\n<p>I rather like the ethereal look of long exposures of crashing waves and foam. I need to find some subjects other than rocks to experiment with though. Fortunately stormy weather is pretty easy to come by at the Oregon coast.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Cape Perpetua Spray\"\n\nI rather like the ethereal look of long exposures of crashing waves and foam. I need to find some subjects other than rocks to experiment with though. Fortunately stormy weather is pretty easy to come by at the Oregon coast.\n\n<img src=\"uploads/2026/20260104-0053.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Cape Perpetua Spray\"\n\nI rather like the ethereal look of long exposures of crashing waves and foam. I need to find some subjects other than rocks to experiment with though. Fortunately stormy weather is pretty easy to come by at the Oregon coast.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260104-0053.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-04T17:25:15-08:00",
 				"url": "https://larkfarm.com/2026/01/04/cape-perpetua-spray-i-rather.html"
 			},
@@ -394,7 +442,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/04/lights-predawn-moonlight-and-lighthouse.html",
 				
 				"content_html": "<p>&ldquo;Lights&rdquo;</p>\n<p>Pre-dawn moonlight and lighthouse at Heceta Head.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Lights\"\n\nPre-dawn moonlight and lighthouse at Heceta Head.\n\n<img src=\"uploads/2026/20260104-0007.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Lights\"\n\nPre-dawn moonlight and lighthouse at Heceta Head.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260104-0007.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-04T13:46:19-08:00",
 				"url": "https://larkfarm.com/2026/01/04/lights-predawn-moonlight-and-lighthouse.html"
 			},
@@ -522,7 +570,7 @@
 				"id": "http://ffmike.micro.blog/2025/12/29/bad-luck-in-the-woods.html",
 				
 				"content_html": "<p>&ldquo;Bad Luck in the Woods&rdquo;</p>\n<p>Never know what you&rsquo;ll find tossed out at trailside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Bad Luck in the Woods\"\n\nNever know what you'll find tossed out at trailside.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251228-0050.jpg\" width=\"600\" height=\"337\" alt=\"Broken mirror reflecting trees and sky\">\n",
+				"content_text": "\"Bad Luck in the Woods\"\n\nNever know what you'll find tossed out at trailside.\n\n<img src=\"uploads/2025/20251228-0050.jpg\" width=\"600\" height=\"337\" alt=\"Broken mirror reflecting trees and sky\">\n",
 				"date_published": "2025-12-29T09:31:06-08:00",
 				"url": "https://larkfarm.com/2025/12/29/bad-luck-in-the-woods.html"
 			},
@@ -610,7 +658,7 @@
 				"id": "http://ffmike.micro.blog/2025/12/25/ferndrop.html",
 				
 				"content_html": "<p>&ldquo;Ferndrop&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Ferndrop\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251224-0024.jpg\" width=\"600\" height=\"337\" alt=\"fern with a drop of water\">\n",
+				"content_text": "\"Ferndrop\"\n\n<img src=\"uploads/2025/20251224-0024.jpg\" width=\"600\" height=\"337\" alt=\"fern with a drop of water\">\n",
 				"date_published": "2025-12-25T08:47:31-08:00",
 				"url": "https://larkfarm.com/2025/12/25/ferndrop.html"
 			},
