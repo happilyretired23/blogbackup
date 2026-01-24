@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/24/shield-bug-this-little-guy.html",
+				
+				"content_html": "<p>&ldquo;Shield Bug&rdquo;</p>\n<p>This little guy came to visit in my office last night. He didn&rsquo;t want to sit still so I didn&rsquo;t get the shot framed well, but it still turned out OK. Then I caught him and gently put him outside where he belongs.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Shield Bug\"\n\nThis little guy came to visit in my office last night. He didn't want to sit still so I didn't get the shot framed well, but it still turned out OK. Then I caught him and gently put him outside where he belongs.\n\n<img src=\"uploads/2026/20260101-0109.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-01-24T04:44:27-08:00",
+				"url": "https://larkfarm.com/2026/01/24/shield-bug-this-little-guy.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/23/fencerails-not-sure-why-theres.html",
+				
+				"content_html": "<p>&ldquo;Fencerails&rdquo;</p>\n<p>Not sure why there&rsquo;s a fence here: as far as I could tell, there are public trails along both sides. But I guess we&rsquo;ll roll with it. It was scenic even if perhaps not useful.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Fencerails\"\n\nNot sure why there's a fence here: as far as I could tell, there are public trails along both sides. But I guess we'll roll with it. It was scenic even if perhaps not useful.\n\n<img src=\"uploads/2026/20260123-0089.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-23T18:24:21-08:00",
+				"url": "https://larkfarm.com/2026/01/23/fencerails-not-sure-why-theres.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/23/hex-the-rich-someone-has.html",
+				
+				"content_html": "<p>&ldquo;Hex the Rich&rdquo;</p>\n<p>Someone has been stapling up signs around Eugene.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Hex the Rich\"\n\nSomeone has been stapling up signs around Eugene.\n\n<img src=\"uploads/2026/20260123-0121.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-23T17:06:17-08:00",
+				"url": "https://larkfarm.com/2026/01/23/hex-the-rich-someone-has.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/23/unjolly-holly-our-long-false.html",
 				
 				"content_html": "<p>&lsquo;Unjolly Holly&quot;</p>\n<p>Our long false spring followed by deep cold snap has betrayed many of the plants in this area.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/21/surrounded.html",
 				
 				"content_html": "<p>&ldquo;Surrounded&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Surrounded\"\n\n\n\n<img src=\"uploads/2026/20260121-0038.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Surrounded\"\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260121-0038.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-21T15:48:13-08:00",
 				"url": "https://larkfarm.com/2026/01/21/surrounded.html"
 			},
@@ -90,7 +114,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/20/new-growth.html",
 				
 				"content_html": "<p>&ldquo;New Growth&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"New Growth\"\n\n<img src=\"uploads/2026/20260119-0071.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"New Growth\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260119-0071.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-20T13:40:27-08:00",
 				"url": "https://larkfarm.com/2026/01/20/new-growth.html"
 			},
@@ -106,7 +130,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/20/out-front-it-was-a.html",
 				
 				"content_html": "<p>&ldquo;Out Front&rdquo;</p>\n<p>It was a bit tough walking the dog in below-freezing temperatures this morning, but taking the camera along made it more pleasant. If only I could train the dog to sit while I compose and focus!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Out Front\"\n\nIt was a bit tough walking the dog in below-freezing temperatures this morning, but taking the camera along made it more pleasant. If only I could train the dog to sit while I compose and focus!\n\n<img src=\"uploads/2026/8305163a24.jpg\">\n",
+				"content_text": "\"Out Front\"\n\nIt was a bit tough walking the dog in below-freezing temperatures this morning, but taking the camera along made it more pleasant. If only I could train the dog to sit while I compose and focus!\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/8305163a24.jpg\">\n",
 				"date_published": "2026-01-20T08:00:23-08:00",
 				"url": "https://larkfarm.com/2026/01/20/out-front-it-was-a.html"
 			},
@@ -114,7 +138,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/20/blanket-creek-falls-i-spent.html",
 				
 				"content_html": "<p>&ldquo;Blanket Creek Falls&rdquo;</p>\n<p>I spent several hours on some serious bushwhacking yesterday to get to the spot where I could take this picture. Not 100% sure it was worth the risk, but it did turn out to be a very pretty spot that I&rsquo;m sure almost no one ever sees.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " \"Blanket Creek Falls\"\n\nI spent several hours on some serious bushwhacking yesterday to get to the spot where I could take this picture. Not 100% sure it was worth the risk, but it did turn out to be a very pretty spot that I'm sure almost no one ever sees.\n\n<img src=\"uploads/2026/20260119-0046.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": " \"Blanket Creek Falls\"\n\nI spent several hours on some serious bushwhacking yesterday to get to the spot where I could take this picture. Not 100% sure it was worth the risk, but it did turn out to be a very pretty spot that I'm sure almost no one ever sees.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260119-0046.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-20T05:31:07-08:00",
 				"url": "https://larkfarm.com/2026/01/20/blanket-creek-falls-i-spent.html"
 			},
@@ -122,7 +146,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/19/the-slot-erosion-at-work.html",
 				
 				"content_html": "<p>&ldquo;The Slot&rdquo;</p>\n<p>Erosion at work along Brice Creek. Also testing the new &ldquo;punchy blender&rdquo; preset in Darktable.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"The Slot\"\n\nErosion at work along Brice Creek. Also testing the new \"punchy blender\" preset in Darktable.\n\n<img src=\"uploads/2026/20260117-0136.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"The Slot\"\n\nErosion at work along Brice Creek. Also testing the new \"punchy blender\" preset in Darktable.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260117-0136.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-19T06:42:06-08:00",
 				"url": "https://larkfarm.com/2026/01/19/the-slot-erosion-at-work.html"
 			},
