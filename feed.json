@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/26/hands-on-hips-just-some.html",
+				
+				"content_html": "<p>&ldquo;Hands on Hips&rdquo;</p>\n<p>Just some sort of seed in a shrub spotted on one of my neighborhood walks. I&rsquo;m pretty sure there are people around here who know me as &ldquo;that weird old guy with the cameras.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Hands on Hips\"\n\nJust some sort of seed in a shrub spotted on one of my neighborhood walks. I'm pretty sure there are people around here who know me as \"that weird old guy with the cameras.\"\n\n<img src=\"uploads/2026/20260123-0005.jpg\" width=\"600\" height=\"336\" alt=\"\">\n",
+				"date_published": "2026-01-26T06:39:08-08:00",
+				"url": "https://larkfarm.com/2026/01/26/hands-on-hips-just-some.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/26/barnacle-herd.html",
+				
+				"content_html": "<p>&ldquo;Barnacle Herd&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Barnacle Herd\"\n\n<img src=\"uploads/2026/20260125-0234.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
+				"date_published": "2026-01-26T04:46:25-08:00",
+				"url": "https://larkfarm.com/2026/01/26/barnacle-herd.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/25/rocks-swimming-upstream.html",
+				
+				"content_html": "<p>&ldquo;Rocks Swimming Upstream&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Rocks Swimming Upstream\"\n\n<img src=\"uploads/2026/20260125-0113.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-25T16:19:22-08:00",
+				"url": "https://larkfarm.com/2026/01/25/rocks-swimming-upstream.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/25/dawn-light-this-morning-at.html",
+				
+				"content_html": "<p>&ldquo;Dawn Light&rdquo;</p>\n<p>This morning at Sutton Boat Launch.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Dawn Light\"\n\nThis morning at Sutton Boat Launch.\n\n<img src=\"uploads/2026/20260125-0003.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-25T15:18:18-08:00",
+				"url": "https://larkfarm.com/2026/01/25/dawn-light-this-morning-at.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/25/lightly-frosted-it-must-be.html",
 				
 				"content_html": "<p>&ldquo;Lightly Frosted&rdquo;</p>\n<p>It must be rough to be a mushroom in the weather we&rsquo;ve been having.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/24/steps-part-of-the-trail.html",
 				
 				"content_html": "<p>&ldquo;Steps&rdquo;</p>\n<p>Part of the trail up Spencer Butte.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Steps\"\n\nPart of the trail up Spencer Butte.\n\n<img src=\"uploads/2026/20260123-0100.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Steps\"\n\nPart of the trail up Spencer Butte.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260123-0100.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-24T07:09:37-08:00",
 				"url": "https://larkfarm.com/2026/01/24/steps-part-of-the-trail.html"
 			},
@@ -50,7 +82,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/24/eugene-valentine.html",
 				
 				"content_html": "<p>&ldquo;Eugene Valentine&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Eugene Valentine\"\n\n<img src=\"uploads/2026/20260123-0075.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Eugene Valentine\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260123-0075.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-24T04:56:18-08:00",
 				"url": "https://larkfarm.com/2026/01/24/eugene-valentine.html"
 			},
@@ -66,7 +98,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/23/fencerails-not-sure-why-theres.html",
 				
 				"content_html": "<p>&ldquo;Fencerails&rdquo;</p>\n<p>Not sure why there&rsquo;s a fence here: as far as I could tell, there are public trails along both sides. But I guess we&rsquo;ll roll with it. It was scenic even if perhaps not useful.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Fencerails\"\n\nNot sure why there's a fence here: as far as I could tell, there are public trails along both sides. But I guess we'll roll with it. It was scenic even if perhaps not useful.\n\n<img src=\"uploads/2026/20260123-0089.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Fencerails\"\n\nNot sure why there's a fence here: as far as I could tell, there are public trails along both sides. But I guess we'll roll with it. It was scenic even if perhaps not useful.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260123-0089.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-23T18:24:21-08:00",
 				"url": "https://larkfarm.com/2026/01/23/fencerails-not-sure-why-theres.html"
 			},
@@ -98,7 +130,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/22/todays-silly-experimentsigma-mm-amount.html",
 				
 				"content_html": "<p>Today&rsquo;s silly experiment&hellip;Sigma 70-300mm A-mount lens on a micro four thirds camera body. I already had the lens and the camera and the adapter was only about $20 so why not?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today's silly experiment...Sigma 70-300mm A-mount lens on a micro four thirds camera body. I already had the lens and the camera and the adapter was only about $20 so why not?\n\n<img src=\"uploads/2026/20260101-0073.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Today's silly experiment...Sigma 70-300mm A-mount lens on a micro four thirds camera body. I already had the lens and the camera and the adapter was only about $20 so why not?\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260101-0073.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-22T08:15:27-08:00",
 				"url": "https://larkfarm.com/2026/01/22/todays-silly-experimentsigma-mm-amount.html"
 			},
@@ -106,7 +138,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/22/oregon-dawn-another-cold-shot.html",
 				
 				"content_html": "<p>&ldquo;Oregon Dawn&rdquo;</p>\n<p>Another cold shot from the top of Mount Pisgah.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Oregon Dawn\"\n\nAnother cold shot from the top of Mount Pisgah.\n\n<img src=\"uploads/2026/20260121-0085.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Oregon Dawn\"\n\nAnother cold shot from the top of Mount Pisgah.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260121-0085.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-22T04:49:51-08:00",
 				"url": "https://larkfarm.com/2026/01/22/oregon-dawn-another-cold-shot.html"
 			},
