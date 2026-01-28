@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/28/bell-system-an-artifact-that.html",
+				
+				"content_html": "<p>&ldquo;Bell System&rdquo;</p>\n<p>An artifact that is, I think, getting more mysterious with each passing year. Certainly my own kids have no idea what the Bell System was.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Bell System\"\n\nAn artifact that is, I think, getting more mysterious with each passing year. Certainly my own kids have no idea what the Bell System was.\n\n<img src=\"uploads/2026/20260127-0047.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-28T04:31:18-08:00",
+				"url": "https://larkfarm.com/2026/01/28/bell-system-an-artifact-that.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/27/after-the-sea-gulls.html",
+				
+				"content_html": "<p>&ldquo;After the Sea Gulls&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"After the Sea Gulls\"\n\n<img src=\"uploads/2026/20260125-0233.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-27T05:51:47-08:00",
+				"url": "https://larkfarm.com/2026/01/27/after-the-sea-gulls.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/26/crab-memories.html",
+				
+				"content_html": "<p>&ldquo;Crab Memories&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Crab Memories\"\n\n\n<img src=\"uploads/2026/20260125-0176.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-26T18:33:31-08:00",
+				"url": "https://larkfarm.com/2026/01/26/crab-memories.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/26/triptych.html",
+				
+				"content_html": "<p>&ldquo;Triptych&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Triptych\"\n\n<img src=\"uploads/2026/20260125-0022.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-26T15:29:05-08:00",
+				"url": "https://larkfarm.com/2026/01/26/triptych.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/26/mossglow.html",
+				
+				"content_html": "<p>&ldquo;Mossglow&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Mossglow\"\n\n<img src=\"uploads/2026/20260123-0025.jpg\" width=\"600\" height=\"336\" alt=\"\">\n",
+				"date_published": "2026-01-26T08:09:31-08:00",
+				"url": "https://larkfarm.com/2026/01/26/mossglow.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/26/hands-on-hips-just-some.html",
 				
 				"content_html": "<p>&ldquo;Hands on Hips&rdquo;</p>\n<p>Just some sort of seed in a shrub spotted on one of my neighborhood walks. I&rsquo;m pretty sure there are people around here who know me as &ldquo;that weird old guy with the cameras.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/25/dawn-light-this-morning-at.html",
 				
 				"content_html": "<p>&ldquo;Dawn Light&rdquo;</p>\n<p>This morning at Sutton Boat Launch.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Dawn Light\"\n\nThis morning at Sutton Boat Launch.\n\n<img src=\"uploads/2026/20260125-0003.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Dawn Light\"\n\nThis morning at Sutton Boat Launch.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260125-0003.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-25T15:18:18-08:00",
 				"url": "https://larkfarm.com/2026/01/25/dawn-light-this-morning-at.html"
 			},
