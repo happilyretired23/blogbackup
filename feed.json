@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/01/30/drawdown-before-this-valley-was.html",
+				
+				"content_html": "<p>&ldquo;Drawdown&rdquo;</p>\n<p>Before this valley was Lookout Point Reservoir, they logged it completely (because why drown useful trees?). Right now the Corps of Engineers has the level drawn down so far that the field of rotting stumps is the reservoir&rsquo;s main feature.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Drawdown\"\n\nBefore this valley was Lookout Point Reservoir, they logged it completely (because why drown useful trees?). Right now the Corps of Engineers has the level drawn down so far that the field of rotting stumps is the reservoir's main feature.\n\n<img src=\"uploads/2026/20260130-0031.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-30T18:40:17-08:00",
+				"url": "https://larkfarm.com/2026/01/30/drawdown-before-this-valley-was.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/29/its-im-living-on-a.html",
+				
+				"content_html": "<p>It&rsquo;s 2026. I&rsquo;m living on a fixed income. I shouldn&rsquo;t have to be thinking about how to afford a full-face gas mask.</p>\n",
+				"content_text": "It's 2026. I'm living on a fixed income. I shouldn't have to be thinking about how to afford a full-face gas mask.\n",
+				"date_published": "2026-01-29T17:51:46-08:00",
+				"url": "https://larkfarm.com/2026/01/29/its-im-living-on-a.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/01/29/coyote-that-was-hanging-around.html",
+				
+				"content_html": "<p>Coyote that was hanging around the parking lot at the trailhead this morning. I was 10 feet away and it was just looking for a handout, no doubt because people have been feeding it. This probably isn&rsquo;t going to end well.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Coyote that was hanging around the parking lot at the trailhead this morning. I was 10 feet away and it was just looking for a handout, no doubt because people have been feeding it. This probably isn't going to end well.\n\n<img src=\"uploads/2026/20260129-0056.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-29T14:29:33-08:00",
+				"url": "https://larkfarm.com/2026/01/29/coyote-that-was-hanging-around.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/01/29/this-is-for-dwalbert-i.html",
 				
 				"content_html": "<p>This is for <a href=\"https://micro.blog/dwalbert\">@dwalbert</a> - I don&rsquo;t know how widely this manhole cover was used, but it&rsquo;s on many of the storm drains around Eugene. We like our nature here.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/28/friendly-fence-i-always-get.html",
 				
 				"content_html": "<p>&ldquo;Friendly Fence&rdquo;</p>\n<p>I always get a smile when I&rsquo;m walking up this part of Amazon Parkway.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Friendly Fence\"\n\nI always get a smile when I'm walking up this part of Amazon Parkway.\n\n<img src=\"uploads/2026/20260127-0116.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Friendly Fence\"\n\nI always get a smile when I'm walking up this part of Amazon Parkway.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260127-0116.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-28T06:47:38-08:00",
 				"url": "https://larkfarm.com/2026/01/28/friendly-fence-i-always-get.html"
 			},
