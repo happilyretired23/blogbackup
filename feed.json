@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/02/08/i-put-in-miles-on.html",
+				
+				"content_html": "<p>I put in 19 miles on the trails at the North Bank Habitat Management Area today. Infinitely preferable to staying home in a house full of football.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I put in 19 miles on the trails at the North Bank Habitat Management Area today. Infinitely preferable to staying home in a house full of football.\n\n<img src=\"uploads/2026/20260208-0035.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-02-08T18:24:07-08:00",
+				"url": "https://larkfarm.com/2026/02/08/i-put-in-miles-on.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/07/infrastructure-there-are-a-bunch.html",
+				
+				"content_html": "<p>&ldquo;Infrastructure&rdquo;</p>\n<p>There are a bunch of BPA power lines running through the Howard Buford Recreation Area where I do a lot of hiking. Sometimes they&rsquo;re as visually interesting as the mushrooms and wildflowers.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Infrastructure\"\n\nThere are a bunch of BPA power lines running through the Howard Buford Recreation Area where I do a lot of hiking. Sometimes they're as visually interesting as the mushrooms and wildflowers.\n\n<img src=\"uploads/2026/20260206-0010.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-02-07T13:32:13-08:00",
+				"url": "https://larkfarm.com/2026/02/07/infrastructure-there-are-a-bunch.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/02/07/dawn-sky-was-showing-off.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/06/spiky.html",
 				
 				"content_html": "<p>&ldquo;Spiky&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Spiky\"\n\n<img src=\"uploads/2026/20260204-0034.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Spiky\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260204-0034.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-06T06:48:43-08:00",
 				"url": "https://larkfarm.com/2026/02/06/spiky.html"
 			},
