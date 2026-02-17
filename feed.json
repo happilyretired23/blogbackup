@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/02/17/bolts.html",
+				
+				"content_html": "<p>&ldquo;Bolts&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Bolts\"\n\n<img src=\"uploads/2026/20260215-0123.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-02-17T03:55:57-08:00",
+				"url": "https://larkfarm.com/2026/02/17/bolts.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/16/ripples.html",
+				
+				"content_html": "<p>&ldquo;Ripples&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Ripples\"\n\n<img src=\"uploads/2026/20260215-0053.jpg\">\n",
+				"date_published": "2026-02-16T17:04:28-08:00",
+				"url": "https://larkfarm.com/2026/02/16/ripples.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/16/the-weather-outside-is-awful.html",
+				"title": "The weather outside is awful this morning. So here\u0026#039;s a tiny sebum growing in a magnetic pot on the front of my fridge.\n#dailyphoto",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/wh86tkce8eoardk7p2a4aks8wu952xsvorpevqje.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">The weather outside is awful this morning. So here's a tiny sebum growing in a magnetic pot on the front of my fridge.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
+				"date_published": "2026-02-16T06:57:40-08:00",
+				"url": "https://larkfarm.com/2026/02/16/the-weather-outside-is-awful.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/16/trail-danger-downstream-end-of.html",
+				
+				"content_html": "<p>&ldquo;Trail Danger&rdquo;</p>\n<p>Downstream end of the Trail Bridge Reservoir. The trail along here is signed &ldquo;Enter at Your Own Risk.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Trail Danger\"\n\nDownstream end of the Trail Bridge Reservoir. The trail along here is signed \"Enter at Your Own Risk.\"\n\n<img src=\"uploads/2026/20260215-0109.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-02-16T05:55:35-08:00",
+				"url": "https://larkfarm.com/2026/02/16/trail-danger-downstream-end-of.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/16/sunny-leaf-big-landscape-photos.html",
+				
+				"content_html": "<p>&ldquo;Sunny Leaf&rdquo;</p>\n<p>Big landscape photos mostly didn&rsquo;t work out on yesterday&rsquo;s hike. Fortunately there are still small things.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Sunny Leaf\"\n\nBig landscape photos mostly didn't work out on yesterday's hike. Fortunately there are still small things.\n\n<img src=\"uploads/2026/20260215-0094.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-02-16T04:53:42-08:00",
+				"url": "https://larkfarm.com/2026/02/16/sunny-leaf-big-landscape-photos.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/15/blue-pool-a-scenic-spot.html",
+				
+				"content_html": "<p>&ldquo;Blue Pool&rdquo;</p>\n<p>A scenic spot on the McKenzie River. Look closely and you can see the two young men who decided a swim in 35-degree water was a good idea. They didn&rsquo;t stay in the water long.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Blue Pool\"\n\nA scenic spot on the McKenzie River. Look closely and you can see the two young men who decided a swim in 35-degree water was a good idea. They didn't stay in the water long.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260215-0087.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-02-15T17:53:02-08:00",
+				"url": "https://larkfarm.com/2026/02/15/blue-pool-a-scenic-spot.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/02/15/tamolitch-blue-pool-its-hard.html",
 				"title": "Tamolitch Blue Pool. It\u0026#039;s hard to do this one justice on a cloudy day, but this picture (from near the top of the precarious herd trail to pool level) gives some idea.\n#dailyphoto #oregon",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -18,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/14/nature-lurks.html",
 				
 				"content_html": "<p>&ldquo;Nature Lurks&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Nature Lurks\"\n\n<img src=\"uploads/2026/20260211-0051.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Nature Lurks\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260211-0051.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-14T13:41:34-08:00",
 				"url": "https://larkfarm.com/2026/02/14/nature-lurks.html"
 			},
@@ -26,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/14/drops.html",
 				
 				"content_html": "<p>&ldquo;Drops&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Drops\"\n\n\n<img src=\"uploads/2026/20260214-0023.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Drops\"\n\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260214-0023.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-14T13:15:18-08:00",
 				"url": "https://larkfarm.com/2026/02/14/drops.html"
 			},
@@ -42,7 +90,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/14/hummies-shot-through-the-chainlink.html",
 				
 				"content_html": "<p>&ldquo;Hummies&rdquo;</p>\n<p>Shot through the chain-link fence at a closed school.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Hummies\"\n\nShot through the chain-link fence at a closed school.\n\n<img src=\"uploads/2026/20260211-0054.jpg\" width=\"600\" height=\"335\" alt=\"\">\n",
+				"content_text": "\"Hummies\"\n\nShot through the chain-link fence at a closed school.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260211-0054.jpg\" width=\"600\" height=\"335\" alt=\"\">\n",
 				"date_published": "2026-02-14T04:39:56-08:00",
 				"url": "https://larkfarm.com/2026/02/14/hummies-shot-through-the-chainlink.html"
 			},
@@ -114,7 +162,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/12/just-some-very-early-crocuses.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/vfjstzyxjkxf5kihgrewdhcb029bke7iskaipiua.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Just some very early crocuses in our neighborhood.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/vfjstzyxjkxf5kihgrewdhcb029bke7iskaipiua.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Just some very early crocuses in our neighborhood.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a></p>\n",
 				"date_published": "2026-02-12T12:59:30-08:00",
 				"url": "https://larkfarm.com/2026/02/12/just-some-very-early-crocuses.html"
 			},
@@ -122,7 +170,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/12/stalking-neighborhood-cat-on-the.html",
 				
 				"content_html": "<p>&ldquo;Stalking&rdquo;</p>\n<p>Neighborhood cat on the move.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Stalking\"\n\nNeighborhood cat on the move.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260211-0003.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Stalking\"\n\nNeighborhood cat on the move.\n\n<img src=\"uploads/2026/20260211-0003.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-12T09:34:46-08:00",
 				"url": "https://larkfarm.com/2026/02/12/stalking-neighborhood-cat-on-the.html"
 			},
@@ -138,7 +186,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/11/agriculture-i-didnt-realize-until.html",
 				
 				"content_html": "<p>&ldquo;Agriculture&rdquo;</p>\n<p>I didn&rsquo;t realize until today that the main downtown Post Office here had some <a href=\"https://en.wikipedia.org/wiki/Carl_Morris_(painter)\">relatively famous art</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Agriculture\"\n\nI didn't realize until today that the main downtown Post Office here had some [relatively famous art](https://en.wikipedia.org/wiki/Carl_Morris_(painter)). \n\n<img src=\"uploads/2026/20260211-0029.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Agriculture\"\n\nI didn't realize until today that the main downtown Post Office here had some [relatively famous art](https://en.wikipedia.org/wiki/Carl_Morris_(painter)). \n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260211-0029.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-11T17:28:31-08:00",
 				"url": "https://larkfarm.com/2026/02/11/agriculture-i-didnt-realize-until.html"
 			},
@@ -258,7 +306,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/07/dawn-sky-was-showing-off.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/cxvei8bbnmkm96rh1nmklln5ai5w1clmaibeqtty.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Dawn sky was showing off this morning. <br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/photography?src=hash\" title=\"#photography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#photography</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugene?src=hash\" title=\"#eugene\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugene</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/cxvei8bbnmkm96rh1nmklln5ai5w1clmaibeqtty.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Dawn sky was showing off this morning. <br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/photography?src=hash\" title=\"#photography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#photography</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugene?src=hash\" title=\"#eugene\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugene</a></p>\n",
 				"date_published": "2026-02-07T09:38:44-08:00",
 				"url": "https://larkfarm.com/2026/02/07/dawn-sky-was-showing-off.html"
 			},
@@ -290,7 +338,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/05/coffee-time-more-of-eugenes.html",
 				
 				"content_html": "<p>&ldquo;Coffee Time&rdquo;</p>\n<p>More of Eugene&rsquo;s parking meter art.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Coffee Time\"\n\nMore of Eugene's parking meter art.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260204-0105.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Coffee Time\"\n\nMore of Eugene's parking meter art.\n\n<img src=\"uploads/2026/20260204-0105.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-05T14:02:19-08:00",
 				"url": "https://larkfarm.com/2026/02/05/coffee-time-more-of-eugenes.html"
 			},
@@ -298,7 +346,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/05/sometimes-it-still-amazes-me.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/edxkc09rygax9dkansz0ykurqo6hvonuckbqgigb.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Sometimes it still amazes me that I live somewhere that Douglas Fir trees sprout in my front yard.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/edxkc09rygax9dkansz0ykurqo6hvonuckbqgigb.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Sometimes it still amazes me that I live somewhere that Douglas Fir trees sprout in my front yard.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a></p>\n",
 				"date_published": "2026-02-05T12:40:43-08:00",
 				"url": "https://larkfarm.com/2026/02/05/sometimes-it-still-amazes-me.html"
 			},
@@ -306,7 +354,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/05/drains-to-stream-another-of.html",
 				
 				"content_html": "<p>&ldquo;Drains to Stream&rdquo;</p>\n<p>Another of our fine urban fish.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Drains to Stream\"\n\nAnother of our fine urban fish.\n\n<img src=\"uploads/2026/20260204-0100.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Drains to Stream\"\n\nAnother of our fine urban fish.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260204-0100.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-05T07:24:15-08:00",
 				"url": "https://larkfarm.com/2026/02/05/drains-to-stream-another-of.html"
 			},
@@ -314,7 +362,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/05/happy-valentines-day-i-really.html",
 				
 				"content_html": "<p>&ldquo;Happy Valentine&rsquo;s Day&rdquo;</p>\n<p>I really have no idea what these critters are supposed to be, but they&rsquo;re part of the seasonal display at my wife&rsquo;s boutique.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Happy Valentine's Day\"\n\nI really have no idea what these critters are supposed to be, but they're part of the seasonal display at my wife's boutique.\n\n<img src=\"uploads/2026/20260204-0053.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Happy Valentine's Day\"\n\nI really have no idea what these critters are supposed to be, but they're part of the seasonal display at my wife's boutique.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260204-0053.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-05T06:52:17-08:00",
 				"url": "https://larkfarm.com/2026/02/05/happy-valentines-day-i-really.html"
 			},
@@ -362,7 +410,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/03/sometimes-a-drop-of-melting.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/ndxzxlgyhsww3iaw4fx7kiaxrfjutoqrkrbuw2eq.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Sometimes a drop of melting ice contains the whole world.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/ndxzxlgyhsww3iaw4fx7kiaxrfjutoqrkrbuw2eq.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Sometimes a drop of melting ice contains the whole world.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a></p>\n",
 				"date_published": "2026-02-03T11:18:03-08:00",
 				"url": "https://larkfarm.com/2026/02/03/sometimes-a-drop-of-melting.html"
 			},
@@ -378,7 +426,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/02/if-you-cant-afford-to.html",
 				"title": "If you can\u0026#039;t afford to fix a broken bridge, then nailing on some cleats is the next best thing. Shot near the downstream end of the Fall Creek National Recreation Trail.\n#dailyphoto #oregon",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/z9ojwffgtsgszlqkou5zxufoke5v6xipibs3dbsu.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">If you can't afford to fix a broken bridge, then nailing on some cleats is the next best thing. Shot near the downstream end of the Fall Creek National Recreation Trail.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/z9ojwffgtsgszlqkou5zxufoke5v6xipibs3dbsu.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">If you can't afford to fix a broken bridge, then nailing on some cleats is the next best thing. Shot near the downstream end of the Fall Creek National Recreation Trail.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a></p>\n",
 				"date_published": "2026-02-02T15:29:35-08:00",
 				"url": "https://larkfarm.com/2026/02/02/if-you-cant-afford-to.html"
 			},
@@ -394,7 +442,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/02/drizzle-i-had-a-gopro.html",
 				
 				"content_html": "<p>&ldquo;Drizzle&rdquo;</p>\n<p>I had a GoPro along on the trail yesterday, and it accidentally caught this shot when I took off my pack to dig out a rain jacket.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Drizzle\"\n\nI had a GoPro along on the trail yesterday, and it accidentally caught this shot when I took off my pack to dig out a rain jacket.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260201-0111.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Drizzle\"\n\nI had a GoPro along on the trail yesterday, and it accidentally caught this shot when I took off my pack to dig out a rain jacket.\n\n<img src=\"uploads/2026/20260201-0111.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-02T05:25:33-08:00",
 				"url": "https://larkfarm.com/2026/02/02/drizzle-i-had-a-gopro.html"
 			},
@@ -402,7 +450,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/01/breakwater-for-an-old-boat.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/v73cmppseob2w2iq8haltcrxt3jbjlsb4mjmtqts.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Breakwater for an old boat ramp (I think) at Dexter State Park.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/v73cmppseob2w2iq8haltcrxt3jbjlsb4mjmtqts.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Breakwater for an old boat ramp (I think) at Dexter State Park.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
 				"date_published": "2026-02-01T17:57:47-08:00",
 				"url": "https://larkfarm.com/2026/02/01/breakwater-for-an-old-boat.html"
 			},
@@ -490,7 +538,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/28/happy-valentines-day-someone-went.html",
 				
 				"content_html": "<p>&ldquo;Happy Valentine&rsquo;s Day&rdquo;</p>\n<p>Someone went through the trails around Spencer Butte with pink chalk and colored all of the vaguely heart-shaped rocks.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Happy Valentine's Day\"\n\nSomeone went through the trails around Spencer Butte with pink chalk and colored all of the vaguely heart-shaped rocks.\n\n<img src=\"uploads/2026/20260127-0095.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Happy Valentine's Day\"\n\nSomeone went through the trails around Spencer Butte with pink chalk and colored all of the vaguely heart-shaped rocks.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260127-0095.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-28T07:32:21-08:00",
 				"url": "https://larkfarm.com/2026/01/28/happy-valentines-day-someone-went.html"
 			},
@@ -546,7 +594,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/26/triptych.html",
 				
 				"content_html": "<p>&ldquo;Triptych&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Triptych\"\n\n<img src=\"uploads/2026/20260125-0022.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Triptych\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260125-0022.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-26T15:29:05-08:00",
 				"url": "https://larkfarm.com/2026/01/26/triptych.html"
 			},
@@ -554,7 +602,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/26/wraparound-flash-diffuser-from-some.html",
 				"title": "Wraparound flash diffuser from some no-name walmart.com merchant probably isn\u0026#039;t as good as the dedicated custom-sized name-brand macro diffusers, but at 1/10 the price it\u0026#039;ll do.\n#dailyphoto",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/anq9qkfoiyntou4getowwhlwcn7u2zcromf8tril.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Wraparound flash diffuser from some no-name walmart.com merchant probably isn't as good as the dedicated custom-sized name-brand macro diffusers, but at 1/10 the price it'll do.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/anq9qkfoiyntou4getowwhlwcn7u2zcromf8tril.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Wraparound flash diffuser from some no-name walmart.com merchant probably isn't as good as the dedicated custom-sized name-brand macro diffusers, but at 1/10 the price it'll do.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
 				"date_published": "2026-01-26T14:58:14-08:00",
 				"url": "https://larkfarm.com/2026/01/26/wraparound-flash-diffuser-from-some.html"
 			},
@@ -610,7 +658,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/25/lightly-frosted-it-must-be.html",
 				
 				"content_html": "<p>&ldquo;Lightly Frosted&rdquo;</p>\n<p>It must be rough to be a mushroom in the weather we&rsquo;ve been having.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Lightly Frosted\"\n\nIt must be rough to be a mushroom in the weather we've been having.\n\n<img src=\"uploads/2026/20260123-0051.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Lightly Frosted\"\n\nIt must be rough to be a mushroom in the weather we've been having.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260123-0051.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-25T05:24:31-08:00",
 				"url": "https://larkfarm.com/2026/01/25/lightly-frosted-it-must-be.html"
 			},
@@ -626,7 +674,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/24/art-in-the-cracks-im.html",
 				
 				"content_html": "<p>&ldquo;Art in the Cracks&rdquo;</p>\n<p>I&rsquo;m fairly sure this sidewalk patch in one of our local parks came from a guerilla artist rather than Public Works.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Art in the Cracks\"\n\nI'm fairly sure this sidewalk patch in one of our local parks came from a guerilla artist rather than Public Works.\n\n<img src=\"uploads/2026/20260123-0118.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Art in the Cracks\"\n\nI'm fairly sure this sidewalk patch in one of our local parks came from a guerilla artist rather than Public Works.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260123-0118.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:37:50-08:00",
 				"url": "https://larkfarm.com/2026/01/24/art-in-the-cracks-im.html"
 			},
@@ -634,7 +682,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/24/chicken-just-had-to-appreciate.html",
 				
 				"content_html": "<p>&ldquo;Chicken&rdquo;</p>\n<p>Just had to appreciate the bit of bright sunlight in my kitchen. We haven&rsquo;t had a lot lately.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Chicken\"\n\nJust had to appreciate the bit of bright sunlight in my kitchen. We haven't had a lot lately.\n\n<img src=\"uploads/2026/20260101-0110.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Chicken\"\n\nJust had to appreciate the bit of bright sunlight in my kitchen. We haven't had a lot lately.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260101-0110.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-24T09:29:42-08:00",
 				"url": "https://larkfarm.com/2026/01/24/chicken-just-had-to-appreciate.html"
 			},
@@ -1002,7 +1050,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/12/frostmelt-walking-the-trail-in.html",
 				
 				"content_html": "<p>&ldquo;Frostmelt&rdquo;</p>\n<p>Walking the trail in bright sun after freezing fog resulted in millions of sparkling drops everywhere.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Frostmelt\"\n\nWalking the trail in bright sun after freezing fog resulted in millions of sparkling drops everywhere.\n\n<img src=\"uploads/2026/20260111-0016.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Frostmelt\"\n\nWalking the trail in bright sun after freezing fog resulted in millions of sparkling drops everywhere.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260111-0016.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-12T06:47:26-08:00",
 				"url": "https://larkfarm.com/2026/01/12/frostmelt-walking-the-trail-in.html"
 			},
@@ -1018,7 +1066,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/11/escape.html",
 				
 				"content_html": "<p>&ldquo;Escape&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Escape\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260110-0028.jpg\" width=\"600\" height=\"338\" alt=\"succulents growing over the edge of a planter\">\n",
+				"content_text": "\"Escape\"\n\n<img src=\"uploads/2026/20260110-0028.jpg\" width=\"600\" height=\"338\" alt=\"succulents growing over the edge of a planter\">\n",
 				"date_published": "2026-01-11T05:14:56-08:00",
 				"url": "https://larkfarm.com/2026/01/11/escape.html"
 			},
@@ -1026,7 +1074,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/10/spring-preview-spent-some-time.html",
 				
 				"content_html": "<p>&ldquo;Spring Preview&rdquo;</p>\n<p>Spent some time in my yard playing with a new-to-me lens (Sony 1.8/35 SAM on an A58). Pretty noisy even at fairly low ISO but I got some nice macro shots with pleasing background blur.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Spring Preview\"\n\nSpent some time in my yard playing with a new-to-me lens (Sony 1.8/35 SAM on an A58). Pretty noisy even at fairly low ISO but I got some nice macro shots with pleasing background blur.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260110-0014.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
+				"content_text": "\"Spring Preview\"\n\nSpent some time in my yard playing with a new-to-me lens (Sony 1.8/35 SAM on an A58). Pretty noisy even at fairly low ISO but I got some nice macro shots with pleasing background blur.\n\n<img src=\"uploads/2026/20260110-0014.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
 				"date_published": "2026-01-10T17:04:17-08:00",
 				"url": "https://larkfarm.com/2026/01/10/spring-preview-spent-some-time.html"
 			},
@@ -1034,7 +1082,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/10/butterflies-in-the-rain-another.html",
 				
 				"content_html": "<p>&ldquo;Butterflies in the Rain&rdquo;</p>\n<p>Another of Eugene&rsquo;s many murals.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Butterflies in the Rain\"\n\nAnother of Eugene's many murals.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260108-0082.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Butterflies in the Rain\"\n\nAnother of Eugene's many murals.\n\n<img src=\"uploads/2026/20260108-0082.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-10T10:18:15-08:00",
 				"url": "https://larkfarm.com/2026/01/10/butterflies-in-the-rain-another.html"
 			},
@@ -1042,7 +1090,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/10/weathered-wave-architectural-detail-from.html",
 				
 				"content_html": "<p>&ldquo;Weathered Wave&rdquo;</p>\n<p>Architectural detail from Eugene Fire Station #1 with (obviously) some cinematic post-processing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Weathered Wave\"\n\nArchitectural detail from Eugene Fire Station #1 with (obviously) some cinematic post-processing.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260101-0022.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Weathered Wave\"\n\nArchitectural detail from Eugene Fire Station #1 with (obviously) some cinematic post-processing.\n\n<img src=\"uploads/2026/20260101-0022.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-10T07:36:10-08:00",
 				"url": "https://larkfarm.com/2026/01/10/weathered-wave-architectural-detail-from.html"
 			},
@@ -1154,7 +1202,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/04/cape-perpetua-spray-i-rather.html",
 				
 				"content_html": "<p>&ldquo;Cape Perpetua Spray&rdquo;</p>\n<p>I rather like the ethereal look of long exposures of crashing waves and foam. I need to find some subjects other than rocks to experiment with though. Fortunately stormy weather is pretty easy to come by at the Oregon coast.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Cape Perpetua Spray\"\n\nI rather like the ethereal look of long exposures of crashing waves and foam. I need to find some subjects other than rocks to experiment with though. Fortunately stormy weather is pretty easy to come by at the Oregon coast.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260104-0053.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Cape Perpetua Spray\"\n\nI rather like the ethereal look of long exposures of crashing waves and foam. I need to find some subjects other than rocks to experiment with though. Fortunately stormy weather is pretty easy to come by at the Oregon coast.\n\n<img src=\"uploads/2026/20260104-0053.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-04T17:25:15-08:00",
 				"url": "https://larkfarm.com/2026/01/04/cape-perpetua-spray-i-rather.html"
 			},
@@ -1170,7 +1218,7 @@
 				"id": "http://ffmike.micro.blog/2026/01/04/lights-predawn-moonlight-and-lighthouse.html",
 				
 				"content_html": "<p>&ldquo;Lights&rdquo;</p>\n<p>Pre-dawn moonlight and lighthouse at Heceta Head.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Lights\"\n\nPre-dawn moonlight and lighthouse at Heceta Head.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260104-0007.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Lights\"\n\nPre-dawn moonlight and lighthouse at Heceta Head.\n\n<img src=\"uploads/2026/20260104-0007.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-04T13:46:19-08:00",
 				"url": "https://larkfarm.com/2026/01/04/lights-predawn-moonlight-and-lighthouse.html"
 			},
@@ -1298,7 +1346,7 @@
 				"id": "http://ffmike.micro.blog/2025/12/29/bad-luck-in-the-woods.html",
 				
 				"content_html": "<p>&ldquo;Bad Luck in the Woods&rdquo;</p>\n<p>Never know what you&rsquo;ll find tossed out at trailside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Bad Luck in the Woods\"\n\nNever know what you'll find tossed out at trailside.\n\n<img src=\"uploads/2025/20251228-0050.jpg\" width=\"600\" height=\"337\" alt=\"Broken mirror reflecting trees and sky\">\n",
+				"content_text": "\"Bad Luck in the Woods\"\n\nNever know what you'll find tossed out at trailside.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251228-0050.jpg\" width=\"600\" height=\"337\" alt=\"Broken mirror reflecting trees and sky\">\n",
 				"date_published": "2025-12-29T09:31:06-08:00",
 				"url": "https://larkfarm.com/2025/12/29/bad-luck-in-the-woods.html"
 			},
@@ -1386,7 +1434,7 @@
 				"id": "http://ffmike.micro.blog/2025/12/25/ferndrop.html",
 				
 				"content_html": "<p>&ldquo;Ferndrop&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Ferndrop\"\n\n<img src=\"uploads/2025/20251224-0024.jpg\" width=\"600\" height=\"337\" alt=\"fern with a drop of water\">\n",
+				"content_text": "\"Ferndrop\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2025/20251224-0024.jpg\" width=\"600\" height=\"337\" alt=\"fern with a drop of water\">\n",
 				"date_published": "2025-12-25T08:47:31-08:00",
 				"url": "https://larkfarm.com/2025/12/25/ferndrop.html"
 			},
