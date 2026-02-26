@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/02/25/walked-miles-today-took-photos.html",
+				
+				"content_html": "<p>Walked 22.6 miles today. Took 478 photos. This may be getting out of control.</p>\n",
+				"content_text": "Walked 22.6 miles today. Took 478 photos. This may be getting out of control.\n",
+				"date_published": "2026-02-25T17:18:23-08:00",
+				"url": "https://larkfarm.com/2026/02/25/walked-miles-today-took-photos.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/25/medusa-a-lovely-little-clump.html",
+				
+				"content_html": "<p>&ldquo;Medusa&rdquo;</p>\n<p>A lovely little clump of Devil&rsquo;s Matchstick lichen in one of the closest parks.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Medusa\"\n\nA lovely little clump of Devil's Matchstick lichen in one of the closest parks.\n\n<img src=\"uploads/2026/20260224-0006.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-25T04:48:53-08:00",
+				"url": "https://larkfarm.com/2026/02/25/medusa-a-lovely-little-clump.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/24/plip-plop-timing-is-everything.html",
+				
+				"content_html": "<p>&ldquo;Plip Plop&rdquo;</p>\n<p>Timing is everything. Well, timing and luck.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Plip Plop\"\n\nTiming is everything. Well, timing and luck.\n\n<img src=\"uploads/2026/20260224-0020.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-02-24T16:42:18-08:00",
+				"url": "https://larkfarm.com/2026/02/24/plip-plop-timing-is-everything.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/24/best-new-feature-in-firefox.html",
+				
+				"content_html": "<p>Best new feature in Firefox 148.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Best new feature in Firefox 148.\n\n<img src=\"uploads/2026/screenshot-from-2026-02-24-16-39-48.png\" width=\"600\" height=\"167\" alt=\"\">\n",
+				"date_published": "2026-02-24T16:40:23-08:00",
+				"url": "https://larkfarm.com/2026/02/24/best-new-feature-in-firefox.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/24/crystal-ball.html",
+				
+				"content_html": "<p>&ldquo;Crystal Ball&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Crystal Ball\"\n\n<img src=\"uploads/2026/20260224-0009.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-02-24T12:21:40-08:00",
+				"url": "https://larkfarm.com/2026/02/24/crystal-ball.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/02/24/i-love-the-way-each.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/zvxjsb22hm8skr2gzd76maqzgoe1uvdw6xwjrolz.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">I love the way each little mosstronaut is wearing its own tiny water droplet helmet.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/moss?src=hash\" title=\"#moss\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#moss</a></p>\n",
+				"date_published": "2026-02-24T09:59:45-08:00",
+				"url": "https://larkfarm.com/2026/02/24/i-love-the-way-each.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/02/24/dragon-creative-yard-work-from.html",
 				
 				"content_html": "<p>&ldquo;Dragon&rdquo;</p>\n<p>Creative yard work from one of our neighbors.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Dragon\"\n\nCreative yard work from one of our neighbors.\n\n<img src=\"uploads/2026/092f91594a.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Dragon\"\n\nCreative yard work from one of our neighbors.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/092f91594a.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-24T05:34:56-08:00",
 				"url": "https://larkfarm.com/2026/02/24/dragon-creative-yard-work-from.html"
 			},
@@ -18,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/23/trees-above-and-below-dailyphoto.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/vb6jkvzmnfpaqmhybysxqi4t7drszzbzdfvbwyc2.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Trees above and below.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/vb6jkvzmnfpaqmhybysxqi4t7drszzbzdfvbwyc2.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Trees above and below.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a></p>\n",
 				"date_published": "2026-02-23T07:41:11-08:00",
 				"url": "https://larkfarm.com/2026/02/23/trees-above-and-below-dailyphoto.html"
 			},
@@ -26,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/23/promontory-id-like-to-get.html",
 				
 				"content_html": "<p>&ldquo;Promontory&rdquo;</p>\n<p>I&rsquo;d like to get this shot on a sunny day, but in Oregon I take what I can get.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Promontory\"\n\nI'd like to get this shot on a sunny day, but in Oregon I take what I can get.\n\n<img src=\"uploads/2026/20260221-0124.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Promontory\"\n\nI'd like to get this shot on a sunny day, but in Oregon I take what I can get.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260221-0124.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-23T06:29:14-08:00",
 				"url": "https://larkfarm.com/2026/02/23/promontory-id-like-to-get.html"
 			},
@@ -34,7 +82,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/23/the-shell.html",
 				
 				"content_html": "<p>&ldquo;The Shell&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"The Shell\"\n\n<img src=\"uploads/2026/20260221-0014.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"The Shell\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260221-0014.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-02-23T05:18:19-08:00",
 				"url": "https://larkfarm.com/2026/02/23/the-shell.html"
 			},
@@ -42,7 +90,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/22/a-bonus-daily-photo-today.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/dist9u81gu82egcqkh3ddznek5qc1nyqk6lbs9td.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">A bonus daily photo today, because who could resist these ladybugs in the gentle rain? In-body focus stacking from 15 frames on the EM-1 III with Oly 60mm f/2.8 macro lens @ f/5.6, 1/15s, ISO 800.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/macrophotography?src=hash\" title=\"#macrophotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#macrophotography</a> <a href=\"https://pxlmo.com/discover/tags/insectphotography?src=hash\" title=\"#insectphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#insectphotography</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/dist9u81gu82egcqkh3ddznek5qc1nyqk6lbs9td.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">A bonus daily photo today, because who could resist these ladybugs in the gentle rain? In-body focus stacking from 15 frames on the EM-1 III with Oly 60mm f/2.8 macro lens @ f/5.6, 1/15s, ISO 800.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/macrophotography?src=hash\" title=\"#macrophotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#macrophotography</a> <a href=\"https://pxlmo.com/discover/tags/insectphotography?src=hash\" title=\"#insectphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#insectphotography</a></p>\n",
 				"date_published": "2026-02-22T11:29:49-08:00",
 				"url": "https://larkfarm.com/2026/02/22/a-bonus-daily-photo-today.html"
 			},
@@ -66,7 +114,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/22/damp-spring-rose-leaves-dailyphoto.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/1dulucvkvifgyykdbazxcgbxctldvcossssbta2t.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Damp spring rose leaves<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/1dulucvkvifgyykdbazxcgbxctldvcossssbta2t.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Damp spring rose leaves<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
 				"date_published": "2026-02-22T07:23:11-08:00",
 				"url": "https://larkfarm.com/2026/02/22/damp-spring-rose-leaves-dailyphoto.html"
 			},
@@ -234,7 +282,7 @@
 				"id": "http://ffmike.micro.blog/2026/02/16/the-weather-outside-is-awful.html",
 				"title": "The weather outside is awful this morning. So here\u0026#039;s a tiny sebum growing in a magnetic pot on the front of my fridge.\n#dailyphoto",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/wh86tkce8eoardk7p2a4aks8wu952xsvorpevqje.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">The weather outside is awful this morning. So here's a tiny sebum growing in a magnetic pot on the front of my fridge.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/wh86tkce8eoardk7p2a4aks8wu952xsvorpevqje.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">The weather outside is awful this morning. So here's a tiny sebum growing in a magnetic pot on the front of my fridge.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
 				"date_published": "2026-02-16T06:57:40-08:00",
 				"url": "https://larkfarm.com/2026/02/16/the-weather-outside-is-awful.html"
 			},
