@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/03/02/miles-of-hiking-in-the.html",
+				
+				"content_html": "<p>43 miles of hiking in the last 3 days. A bit footsore but not dead yet!</p>\n",
+				"content_text": "43 miles of hiking in the last 3 days. A bit footsore but not dead yet!\n",
+				"date_published": "2026-03-02T19:13:56-08:00",
+				"url": "https://larkfarm.com/2026/03/02/miles-of-hiking-in-the.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/03/01/full-cup-pixie-cup-lichen.html",
 				
 				"content_html": "<p>&ldquo;Full Cup&rdquo;</p>\n<p>Pixie cup lichen on a damp day.</p>\n<!-- raw HTML omitted -->\n",
