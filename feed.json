@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/03/13/well-that-sucks-digg-throws.html",
+				
+				"content_html": "<p>Well, that sucks: <a href=\"https://digg.com/?sort=recent\">Digg throws in the towel on its open beta</a>.</p>\n<blockquote>\n<p>The internet is now populated, in meaningful part, by sophisticated AI agents and automated accounts. We knew bots were part of the landscape, but we didn&rsquo;t appreciate the scale, sophistication, or speed at which they&rsquo;d find us. We banned tens of thousands of accounts. We deployed internal tooling and industry-standard external vendors. None of it was enough. When you can&rsquo;t trust that the votes, the comments, and the engagement you&rsquo;re seeing are real, you&rsquo;ve lost the foundation a community platform is built on.</p>\n</blockquote>\n<p>Tell me again how AI is a good thing?</p>\n",
+				"content_text": "Well, that sucks: [Digg throws in the towel on its open beta](https://digg.com/?sort=recent).\n\n> The internet is now populated, in meaningful part, by sophisticated AI agents and automated accounts. We knew bots were part of the landscape, but we didn't appreciate the scale, sophistication, or speed at which they'd find us. We banned tens of thousands of accounts. We deployed internal tooling and industry-standard external vendors. None of it was enough. When you can't trust that the votes, the comments, and the engagement you're seeing are real, you've lost the foundation a community platform is built on.\n\nTell me again how AI is a good thing?\n",
+				"date_published": "2026-03-13T16:37:07-07:00",
+				"url": "https://larkfarm.com/2026/03/13/well-that-sucks-digg-throws.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/03/12/desktop-computer-appears-to-have.html",
+				
+				"content_html": "<p>Desktop computer appears to have gone to electronics graveyard. Posting will be scant for a bit.</p>\n",
+				"content_text": "Desktop computer appears to have gone to electronics graveyard. Posting will be scant for a bit.\n",
+				"date_published": "2026-03-12T16:44:57-07:00",
+				"url": "https://larkfarm.com/2026/03/12/desktop-computer-appears-to-have.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/03/12/been-listening-to-an-economist.html",
+				
+				"content_html": "<p>Been listening to an Economist podcast about all the wonderful things good people are doing to make AI models safe. My problem with this is that I don&rsquo;t see anything to prevent bad people from making unsafe AI models. And so much of the development is easy that this is not just possible, but inevitable.</p>\n",
+				"content_text": "Been listening to an Economist podcast about all the wonderful things good people are doing to make AI models safe. My problem with this is that I don't see anything to prevent bad people from making unsafe AI models. And so much of the development is easy that this is not just possible, but inevitable.\n",
+				"date_published": "2026-03-12T13:02:10-07:00",
+				"url": "https://larkfarm.com/2026/03/12/been-listening-to-an-economist.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/03/12/i-keep-having-urges-to.html",
+				
+				"content_html": "<p>I keep having urges to post commentary about the war criminals running the US government, but what would that accomplish?</p>\n",
+				"content_text": "I keep having urges to post commentary about the war criminals running the US government, but what would that accomplish?\n",
+				"date_published": "2026-03-12T11:11:24-07:00",
+				"url": "https://larkfarm.com/2026/03/12/i-keep-having-urges-to.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/03/12/lonely.html",
 				
 				"content_html": "<p>&ldquo;Lonely&rdquo;</p>\n<!-- raw HTML omitted -->\n",
@@ -18,7 +50,7 @@
 				"id": "http://ffmike.micro.blog/2026/03/12/the-wild-geese-fly.html",
 				
 				"content_html": "<p>&ldquo;The Wild Geese Fly&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"The Wild Geese Fly\"\n\n<img src=\"uploads/2026/20260307-0014.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"The Wild Geese Fly\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260307-0014.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-03-12T08:51:58-07:00",
 				"url": "https://larkfarm.com/2026/03/12/the-wild-geese-fly.html"
 			},
