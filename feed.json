@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/04/05/oregon-road.html",
+				
+				"content_html": "<p>&ldquo;Oregon Road&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Oregon Road\"\n\n<img src=\"uploads/2026/20260404-0077.jpg\" width=\"600\" height=\"337\" alt=\"Trees reflected in rain-filled pothole\">\n",
+				"date_published": "2026-04-05T08:01:34-07:00",
+				"url": "https://larkfarm.com/2026/04/05/oregon-road.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/05/hidden-fall-this-one-is.html",
+				
+				"content_html": "<p>&ldquo;Hidden Fall&rdquo;</p>\n<p>This one is too small to have a name, Oregon being the waterfall mecca that it is. It&rsquo;s on Lost Creek, just a short scramble from the Lost Creek Trail.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Hidden Fall\"\n\nThis one is too small to have a name, Oregon being the waterfall mecca that it is. It's on Lost Creek, just a short scramble from the Lost Creek Trail.\n\n<img src=\"uploads/2026/20260404-0059.jpg\" width=\"600\" height=\"337\" alt=\"a small waterfall in the woods\">\n",
+				"date_published": "2026-04-05T05:07:53-07:00",
+				"url": "https://larkfarm.com/2026/04/05/hidden-fall-this-one-is.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/04/todays-view-from-the-top.html",
+				
+				"content_html": "<p>&ldquo;Today&rsquo;s View&rdquo;</p>\n<p>From the top of Mount June at lunchtime. North Sister, Middle Sister, South Sister, Broken Top, and Mount Bachelor in this shot.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Today's View\"\n\nFrom the top of Mount June at lunchtime. North Sister, Middle Sister, South Sister, Broken Top, and Mount Bachelor in this shot.\n\n<img src=\"uploads/2026/20260404-0052.jpg\" width=\"600\" height=\"337\" alt=\"some of the cascades\">\n",
+				"date_published": "2026-04-04T18:21:16-07:00",
+				"url": "https://larkfarm.com/2026/04/04/todays-view-from-the-top.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/04/woods-a-section-of-the.html",
+				
+				"content_html": "<p>&ldquo;Woods&rdquo;</p>\n<p>A section of the mount June Trail today</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Woods\"\n\nA section of the mount June Trail today\n\n<img src=\"uploads/2026/20260404-0001.jpg\" width=\"600\" height=\"337\" alt=\"A path through the trees\">\n",
+				"date_published": "2026-04-04T17:55:32-07:00",
+				"url": "https://larkfarm.com/2026/04/04/woods-a-section-of-the.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/04/close-up-of-a-calypso.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/yeoyxvxfkctdgo5odzpbavqzzuufqwobbgy8joyw.jpg\" alt=\"Close up of a Calypso Orchid.\">\n                                            </div>\n                    <p style=\"padding:10px;\">Close up of a Calypso Orchid.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/flowerphotography?src=hash\" title=\"#flowerphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowerphotography</a></p>\n",
+				"date_published": "2026-04-04T17:08:54-07:00",
+				"url": "https://larkfarm.com/2026/04/04/close-up-of-a-calypso.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/04/04/captured-sky.html",
 				
 				"content_html": "<p>&ldquo;Captured Sky&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Captured Sky\"\n\n<img src=\"uploads/2026/20260402-0109.jpg\" width=\"600\" height=\"337\" alt=\"Sky and clouds reflected in a puddle\">\n",
+				"content_text": "\"Captured Sky\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260402-0109.jpg\" width=\"600\" height=\"337\" alt=\"Sky and clouds reflected in a puddle\">\n",
 				"date_published": "2026-04-04T05:17:57-07:00",
 				"url": "https://larkfarm.com/2026/04/04/captured-sky.html"
 			},
@@ -18,7 +58,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/03/stop-and-smell-the-flowers.html",
 				
 				"content_html": "<p>&ldquo;Stop and Smell the Flowers&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Stop and Smell the Flowers\"\n\n<img src=\"uploads/2026/20260402-0163.jpg\" width=\"600\" height=\"337\" alt=\"A small fly visits a Shasta Daisy\">\n",
+				"content_text": "\"Stop and Smell the Flowers\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260402-0163.jpg\" width=\"600\" height=\"337\" alt=\"A small fly visits a Shasta Daisy\">\n",
 				"date_published": "2026-04-03T17:11:46-07:00",
 				"url": "https://larkfarm.com/2026/04/03/stop-and-smell-the-flowers.html"
 			},
@@ -34,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/03/not-sure-whether-the-tall.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/axssrqkesne7oafqa1jwwvjq6iq9ci5ae96bpyfl.jpg\" alt=\"Iris leaves in the sun\">\n                                            </div>\n                    <p style=\"padding:10px;\">Not sure whether the tall iris are even going to bloom this year, but they still offer light and shadow when the sun comes out.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/axssrqkesne7oafqa1jwwvjq6iq9ci5ae96bpyfl.jpg\" alt=\"Iris leaves in the sun\">\n                                            </div>\n                    <p style=\"padding:10px;\">Not sure whether the tall iris are even going to bloom this year, but they still offer light and shadow when the sun comes out.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a></p>\n",
 				"date_published": "2026-04-03T12:17:07-07:00",
 				"url": "https://larkfarm.com/2026/04/03/not-sure-whether-the-tall.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/03/shooting-star-another-of-my.html",
 				
 				"content_html": "<p>&ldquo;Shooting Star&rdquo;</p>\n<p>Another of my favorite spring flowers.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Shooting Star\"\n\nAnother of my favorite spring flowers.\n\n<img src=\"uploads/2026/20260402-0039.jpg\" width=\"600\" height=\"337\" alt=\"Henderson's Shooting Star flowers\">\n",
+				"content_text": "\"Shooting Star\"\n\nAnother of my favorite spring flowers.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260402-0039.jpg\" width=\"600\" height=\"337\" alt=\"Henderson's Shooting Star flowers\">\n",
 				"date_published": "2026-04-03T10:46:23-07:00",
 				"url": "https://larkfarm.com/2026/04/03/shooting-star-another-of-my.html"
 			},
