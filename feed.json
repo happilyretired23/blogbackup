@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/04/08/buttercups.html",
+				
+				"content_html": "<p>&ldquo;Buttercups&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Buttercups\"\n\n<img src=\"uploads/2026/20260407-0060.jpg\" width=\"600\" height=\"337\" alt=\"a field of flowers\">\n",
+				"date_published": "2026-04-08T15:47:46-07:00",
+				"url": "https://larkfarm.com/2026/04/08/buttercups.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/08/125136.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/pnwomkqxyjsb6grdu3x6lwhhzqqdczrficij1z72.jpg\" alt=\"yellow japanese rose flower\">\n                                            </div>\n                    <p style=\"padding:10px;\">Japanese Rose<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/flowerphotography?src=hash\" title=\"#flowerphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowerphotography</a></p>\n",
+				"date_published": "2026-04-08T12:51:36-07:00",
+				"url": "https://larkfarm.com/2026/04/08/125136.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/08/captured.html",
+				
+				"content_html": "<p>&ldquo;Captured&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Captured\"\n\n<img src=\"uploads/2026/20260407-0048.jpg\" width=\"600\" height=\"337\" alt=\"Oregon Manroot tendril\">\n",
+				"date_published": "2026-04-08T11:56:03-07:00",
+				"url": "https://larkfarm.com/2026/04/08/captured.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/08/coming-attraction.html",
+				
+				"content_html": "<p>&ldquo;Coming Attraction&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Coming Attraction\"\n\n<img src=\"uploads/2026/20260407-0031.jpg\" width=\"600\" height=\"337\" alt=\"wild iris bud waiting to unfurl\">\n",
+				"date_published": "2026-04-08T10:10:00-07:00",
+				"url": "https://larkfarm.com/2026/04/08/coming-attraction.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/08/iris-superhighway.html",
+				
+				"content_html": "<p>&ldquo;Iris Superhighway&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Iris Superhighway\"\n\n<img src=\"uploads/2026/20260407-0028.jpg\" width=\"600\" height=\"337\" alt=\"Close-up of an iris petal\">\n",
+				"date_published": "2026-04-08T08:19:37-07:00",
+				"url": "https://larkfarm.com/2026/04/08/iris-superhighway.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/08/whoo-goes-there.html",
+				
+				"content_html": "<p>&ldquo;Whoo Goes There?&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Whoo Goes There?\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260407-0007.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-04-08T05:50:01-07:00",
+				"url": "https://larkfarm.com/2026/04/08/whoo-goes-there.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/08/poised-to-explode-its-probably.html",
+				
+				"content_html": "<p>&ldquo;Poised to Explode&rdquo;</p>\n<p>It&rsquo;s probably too late to keep more dandelions out of this lawn.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Poised to Explode\"\n\nIt's probably too late to keep more dandelions out of this lawn.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260407-0001.jpg\" width=\"600\" height=\"337\" alt=\"dandelion flower gone to seed\">\n",
+				"date_published": "2026-04-08T04:47:05-07:00",
+				"url": "https://larkfarm.com/2026/04/08/poised-to-explode-its-probably.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/07/mighty-hunter-this-heron-was.html",
+				
+				"content_html": "<p>&ldquo;Mighty Hunter&rdquo;</p>\n<p>This heron was steadily plucking tiny fish out of the creek while I watched.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Mighty Hunter\"\n\nThis heron was steadily plucking tiny fish out of the creek while I watched.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260407-0161.jpg\" width=\"600\" height=\"337\" alt=\"heron standing in water with a fish in its beak\">\n",
+				"date_published": "2026-04-07T18:22:44-07:00",
+				"url": "https://larkfarm.com/2026/04/07/mighty-hunter-this-heron-was.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/07/looks-like-its-taco-time.html",
+				
+				"content_html": "<p>Looks like it&rsquo;s TACO time again. Better that than WW III.</p>\n",
+				"content_text": "Looks like it's TACO time again. Better that than WW III.\n",
+				"date_published": "2026-04-07T16:04:51-07:00",
+				"url": "https://larkfarm.com/2026/04/07/looks-like-its-taco-time.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/04/07/why-does-someone-in-eugene.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/wtsgyjqjqmbvc6blgtudh5dynj0vokuptpay64xc.jpg\" alt=\"pink plastic buffalo in a garden\">\n                                            </div>\n                    <p style=\"padding:10px;\">Why does someone in Eugene have a pink bison in their front yard? The world may never know.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/wtsgyjqjqmbvc6blgtudh5dynj0vokuptpay64xc.jpg\" alt=\"pink plastic buffalo in a garden\">\n                                            </div>\n                    <p style=\"padding:10px;\">Why does someone in Eugene have a pink bison in their front yard? The world may never know.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a></p>\n",
 				"date_published": "2026-04-07T14:59:04-07:00",
 				"url": "https://larkfarm.com/2026/04/07/why-does-someone-in-eugene.html"
 			},
@@ -26,7 +98,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/07/reach-to-the-sky.html",
 				
 				"content_html": "<p>&ldquo;Reach to the Sky&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Reach to the Sky\"\n\n<img src=\"uploads/2026/20260406-0064.jpg\" width=\"600\" height=\"337\" alt=\"steel beams against a blue sky\">\n",
+				"content_text": "\"Reach to the Sky\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260406-0064.jpg\" width=\"600\" height=\"337\" alt=\"steel beams against a blue sky\">\n",
 				"date_published": "2026-04-07T05:58:37-07:00",
 				"url": "https://larkfarm.com/2026/04/07/reach-to-the-sky.html"
 			},
@@ -34,7 +106,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/06/boom-this-flowering-cherry-is.html",
 				
 				"content_html": "<p>Boom!&quot;</p>\n<p>This flowering cherry is, well, flowering.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Boom!\"\n\nThis flowering cherry is, well, flowering.\n\n<img src=\"uploads/2026/20260406-0074.jpg\" width=\"600\" height=\"337\" alt=\"cherry blossoms against a blue sky\">\n",
+				"content_text": "Boom!\"\n\nThis flowering cherry is, well, flowering.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260406-0074.jpg\" width=\"600\" height=\"337\" alt=\"cherry blossoms against a blue sky\">\n",
 				"date_published": "2026-04-06T17:46:22-07:00",
 				"url": "https://larkfarm.com/2026/04/06/boom-this-flowering-cherry-is.html"
 			},
@@ -42,7 +114,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/06/fierce-heron-this-guy-was.html",
 				
 				"content_html": "<p>&ldquo;Fierce Heron&rdquo;</p>\n<p>This guy was just hanging out in Amazon Creek, a concrete-channeled waterway near downtown. He let me get within about ten feet before getting crabby about posing for me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Fierce Heron\"\n\nThis guy was just hanging out in Amazon Creek, a concrete-channeled waterway near downtown. He let me get within about ten feet before getting crabby about posing for me.\n\n<img src=\"uploads/2026/20260406-0042.jpg\" width=\"600\" height=\"337\" alt=\"Heron with rocks and water\">\n",
+				"content_text": "\"Fierce Heron\"\n\nThis guy was just hanging out in Amazon Creek, a concrete-channeled waterway near downtown. He let me get within about ten feet before getting crabby about posing for me.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260406-0042.jpg\" width=\"600\" height=\"337\" alt=\"Heron with rocks and water\">\n",
 				"date_published": "2026-04-06T15:36:38-07:00",
 				"url": "https://larkfarm.com/2026/04/06/fierce-heron-this-guy-was.html"
 			},
