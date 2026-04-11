@@ -7,10 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/04/11/transportation.html",
+				
+				"content_html": "<p>&ldquo;Transportation&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Transportation\"\n\n<img src=\"uploads/2026/20260410-0007.jpg\" width=\"600\" height=\"337\" alt=\"bike parked in front of a train mural\">\n",
+				"date_published": "2026-04-11T05:14:14-07:00",
+				"url": "https://larkfarm.com/2026/04/11/transportation.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/10/skipping-every-podcast-that-turns.html",
+				
+				"content_html": "<p>Skipping every podcast that turns into an AI puff piece means I have much more time to listen to music.</p>\n",
+				"content_text": "Skipping every podcast that turns into an AI puff piece means I have much more time to listen to music.\n",
+				"date_published": "2026-04-10T08:52:01-07:00",
+				"url": "https://larkfarm.com/2026/04/10/skipping-every-podcast-that-turns.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/10/springtime-for-a-japanese-maple.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/weobqehr07xsf5upmypxxs9mq5rs05arcz80xmxk.jpg\" alt=\"tiny green and red leaves\">\n                                            </div>\n                    <p style=\"padding:10px;\">Springtime for a Japanese Maple tree.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a></p>\n",
+				"date_published": "2026-04-10T08:48:15-07:00",
+				"url": "https://larkfarm.com/2026/04/10/springtime-for-a-japanese-maple.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/10/triptych.html",
+				
+				"content_html": "<p>&ldquo;Triptych&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Triptych\"\n\n<img src=\"uploads/2026/20260409-0031.jpg\" width=\"600\" height=\"337\" alt=\"three wild iris blossoms\">\n",
+				"date_published": "2026-04-10T08:44:33-07:00",
+				"url": "https://larkfarm.com/2026/04/10/triptych.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/10/as-near-as-i-can.html",
+				
+				"content_html": "<p>As near as I can suss out, private credit + banks looks like this:</p>\n<ul>\n<li>Pete is a private credit guy. He lends $5 to Joe on a promise of high interest return.</li>\n<li>Brad is a banker. He lends $5 to Pete, based on the value of Pete&rsquo;s loan to Joe.</li>\n<li>Pete lends the new $5 to Jim on a promise of high interest return.</li>\n<li>Joe and Jim get together and spend the $10 on cheap thrills and then go sleep it off, declaring bankruptcy.</li>\n<li>Pete and Brad are both shit out of luck, hilarity and bank runs ensue.</li>\n</ul>\n<p>Maybe I&rsquo;m missing something but this doesn&rsquo;t seem like the most sophisticated piece of financial engineering ever.</p>\n",
+				"content_text": "As near as I can suss out, private credit + banks looks like this:\n\n- Pete is a private credit guy. He lends $5 to Joe on a promise of high interest return.\n- Brad is a banker. He lends $5 to Pete, based on the value of Pete's loan to Joe.\n- Pete lends the new $5 to Jim on a promise of high interest return.\n- Joe and Jim get together and spend the $10 on cheap thrills and then go sleep it off, declaring bankruptcy.\n- Pete and Brad are both shit out of luck, hilarity and bank runs ensue.\n\nMaybe I'm missing something but this doesn't seem like the most sophisticated piece of financial engineering ever.\n",
+				"date_published": "2026-04-10T06:35:26-07:00",
+				"url": "https://larkfarm.com/2026/04/10/as-near-as-i-can.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/10/peaceful-view-near-swing-hill.html",
+				
+				"content_html": "<p>&ldquo;Peaceful View&rdquo;</p>\n<p>Near Swing Hill outside of Eugene.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Peaceful View\"\n\nNear Swing Hill outside of Eugene.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260409-0027.jpg\" width=\"600\" height=\"337\" alt=\"bench under a tree, looking out over a valley with blue sky and clouds\">\n",
+				"date_published": "2026-04-10T05:38:43-07:00",
+				"url": "https://larkfarm.com/2026/04/10/peaceful-view-near-swing-hill.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/09/spike-camas-lily-getting-ready.html",
+				
+				"content_html": "<p>&ldquo;Spike&rdquo;</p>\n<p>Camas Lily getting ready to flower</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Spike\"\n\nCamas Lily getting ready to flower\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260409-0020.jpg\" width=\"600\" height=\"337\" alt=\"green buds against a blurry green background\">\n",
+				"date_published": "2026-04-09T17:34:33-07:00",
+				"url": "https://larkfarm.com/2026/04/09/spike-camas-lily-getting-ready.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/04/09/just-a-bucolic-scene-viewed.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/fud9t7katnlyhzjjvwsnrrpzixy7u2vfqctc6abo.jpg\" alt=\"Fields, barns, mountains, clouds\">\n                                            </div>\n                    <p style=\"padding:10px;\">Just a bucolic scene viewed from Mount Pisgah.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/barn?src=hash\" title=\"#barn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#barn</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/fud9t7katnlyhzjjvwsnrrpzixy7u2vfqctc6abo.jpg\" alt=\"Fields, barns, mountains, clouds\">\n                                            </div>\n                    <p style=\"padding:10px;\">Just a bucolic scene viewed from Mount Pisgah.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/barn?src=hash\" title=\"#barn\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#barn</a></p>\n",
 				"date_published": "2026-04-09T16:35:09-07:00",
 				"url": "https://larkfarm.com/2026/04/09/just-a-bucolic-scene-viewed.html"
 			},
@@ -26,7 +82,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/09/confusing-plural-is-this-a.html",
 				
 				"content_html": "<p>&ldquo;Confusing Plural&rdquo;</p>\n<p>Is this a pair of killdeer or a pair of killdeers?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Confusing Plural\"\n\nIs this a pair of killdeer or a pair of killdeers?\n\n<img src=\"uploads/2026/20260407-0082.jpg\" width=\"600\" height=\"337\" alt=\"two birds in a rocky stream\">\n",
+				"content_text": "\"Confusing Plural\"\n\nIs this a pair of killdeer or a pair of killdeers?\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260407-0082.jpg\" width=\"600\" height=\"337\" alt=\"two birds in a rocky stream\">\n",
 				"date_published": "2026-04-09T04:52:52-07:00",
 				"url": "https://larkfarm.com/2026/04/09/confusing-plural-is-this-a.html"
 			},
@@ -34,7 +90,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/08/buttercups.html",
 				
 				"content_html": "<p>&ldquo;Buttercups&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Buttercups\"\n\n<img src=\"uploads/2026/20260407-0060.jpg\" width=\"600\" height=\"337\" alt=\"a field of flowers\">\n",
+				"content_text": "\"Buttercups\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260407-0060.jpg\" width=\"600\" height=\"337\" alt=\"a field of flowers\">\n",
 				"date_published": "2026-04-08T15:47:46-07:00",
 				"url": "https://larkfarm.com/2026/04/08/buttercups.html"
 			},
@@ -42,7 +98,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/08/125136.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/pnwomkqxyjsb6grdu3x6lwhhzqqdczrficij1z72.jpg\" alt=\"yellow japanese rose flower\">\n                                            </div>\n                    <p style=\"padding:10px;\">Japanese Rose<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/flowerphotography?src=hash\" title=\"#flowerphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowerphotography</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/pnwomkqxyjsb6grdu3x6lwhhzqqdczrficij1z72.jpg\" alt=\"yellow japanese rose flower\">\n                                            </div>\n                    <p style=\"padding:10px;\">Japanese Rose<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/flowerphotography?src=hash\" title=\"#flowerphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowerphotography</a></p>\n",
 				"date_published": "2026-04-08T12:51:36-07:00",
 				"url": "https://larkfarm.com/2026/04/08/125136.html"
 			},
