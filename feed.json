@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/04/27/sometimes-all-you-need-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/ehf8vz7kzcx8yitqx8tkgy3tfluuq2ypcprbpnqx.jpg\" alt=\"Macro shot of a dandelion seed head\">\n                                            </div>\n                    <p style=\"padding:10px;\">Sometimes all you need is a dandelion, a flash, and the morning dew.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/flowerphotography?src=hash\" title=\"#flowerphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowerphotography</a></p>\n",
+				"date_published": "2026-04-27T10:57:38-07:00",
+				"url": "https://larkfarm.com/2026/04/27/sometimes-all-you-need-is.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/26/the-pelicans-were-out-at.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/8eyqcqshs1ujz5pyoidmtazh2e6ytzg4fjj3vfft.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">The Pelicans were out at Bob Creek today.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/oregoncoast?src=hash\" title=\"#oregoncoast\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregoncoast</a> <a href=\"https://pxlmo.com/discover/tags/birdphotography?src=hash\" title=\"#birdphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#birdphotography</a></p>\n",
+				"date_published": "2026-04-26T18:02:31-07:00",
+				"url": "https://larkfarm.com/2026/04/26/the-pelicans-were-out-at.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/26/beach-trip-today-resulted-in.html",
+				
+				"content_html": "<p>Beach trip today resulted in 509 photos to sort through.</p>\n<p>In my defense, the pelicans were out.</p>\n",
+				"content_text": "Beach trip today resulted in 509 photos to sort through.\n\nIn my defense, the pelicans were out.\n",
+				"date_published": "2026-04-26T17:28:34-07:00",
+				"url": "https://larkfarm.com/2026/04/26/beach-trip-today-resulted-in.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/04/26/not-suitable-for-sandwiches-pretty.html",
+				
+				"content_html": "<p>&ldquo;Not Suitable for Sandwiches&rdquo;</p>\n<p>Pretty sure this is Orange Jelly fungus - it&rsquo;s growing on a downed, burnt conifer.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Not Suitable for Sandwiches\"\n\nPretty sure this is Orange Jelly fungus - it's growing on a downed, burnt conifer.\n\n<img src=\"uploads/2026/20260424-0064.jpg\" width=\"600\" height=\"337\" alt=\"A bit of bright orange fungus\">\n",
+				"date_published": "2026-04-26T07:43:28-07:00",
+				"url": "https://larkfarm.com/2026/04/26/not-suitable-for-sandwiches-pretty.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/04/26/lower-portland-creek-falls.html",
 				
 				"content_html": "<p>&ldquo;Lower Portland Creek Falls&rdquo;</p>\n<!-- raw HTML omitted -->\n",
@@ -18,7 +50,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/25/stumphenge.html",
 				
 				"content_html": "<p>&ldquo;Stumphenge&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Stumphenge\"\n\n<img src=\"uploads/2026/20260424-0167.jpg\" width=\"600\" height=\"337\" alt=\"large rock balanced on top of a charred stump\">\n",
+				"content_text": "\"Stumphenge\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260424-0167.jpg\" width=\"600\" height=\"337\" alt=\"large rock balanced on top of a charred stump\">\n",
 				"date_published": "2026-04-25T18:38:42-07:00",
 				"url": "https://larkfarm.com/2026/04/25/stumphenge.html"
 			},
@@ -26,7 +58,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/25/furn.html",
 				
 				"content_html": "<p>&ldquo;F(urn)&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"F(urn)\"\n\n<img src=\"uploads/2026/20260424-0149.jpg\" width=\"600\" height=\"337\" alt=\"spreading fern fronds\">\n",
+				"content_text": "\"F(urn)\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260424-0149.jpg\" width=\"600\" height=\"337\" alt=\"spreading fern fronds\">\n",
 				"date_published": "2026-04-25T16:11:09-07:00",
 				"url": "https://larkfarm.com/2026/04/25/furn.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/25/columns.html",
 				
 				"content_html": "<p>&ldquo;Columns&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Columns\"\n\n\n<img src=\"uploads/2026/20260424-0138.jpg\" width=\"600\" height=\"337\" alt=\"basalt cliff near Fall Creek\">\n",
+				"content_text": "\"Columns\"\n\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260424-0138.jpg\" width=\"600\" height=\"337\" alt=\"basalt cliff near Fall Creek\">\n",
 				"date_published": "2026-04-25T13:45:53-07:00",
 				"url": "https://larkfarm.com/2026/04/25/columns.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/04/25/sunkissed-purple-i-think-this.html",
 				
 				"content_html": "<p>&ldquo;Sun-kissed purple&rdquo;</p>\n<p>I think this is Oregon Anemone. If I&rsquo;m wrong, well, it&rsquo;s still pretty.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Sun-kissed purple\"\n\nI think this is Oregon Anemone. If I'm wrong, well, it's still pretty.\n\n<img src=\"uploads/2026/20260424-0090.jpg\" width=\"600\" height=\"337\" alt=\"close=up of a single purple flower\">\n",
+				"content_text": "\"Sun-kissed purple\"\n\nI think this is Oregon Anemone. If I'm wrong, well, it's still pretty.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260424-0090.jpg\" width=\"600\" height=\"337\" alt=\"close=up of a single purple flower\">\n",
 				"date_published": "2026-04-25T12:39:34-07:00",
 				"url": "https://larkfarm.com/2026/04/25/sunkissed-purple-i-think-this.html"
 			},
