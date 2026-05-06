@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/05/06/were-open.html",
+				
+				"content_html": "<p>&ldquo;we&rsquo;re OPEN&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"we're OPEN\"\n\n<img src=\"uploads/2026/20260505-0782.jpg\" width=\"600\" height=\"337\" alt=\"neon sign on red building\">\n",
+				"date_published": "2026-05-06T06:32:26-07:00",
+				"url": "https://larkfarm.com/2026/05/06/were-open.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/05/06/goslings-sometimes-a-few-baby.html",
+				
+				"content_html": "<p>&ldquo;Goslings!&rdquo;</p>\n<p>Sometimes a few baby geese is all you need.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Goslings!\"\n\nSometimes a few baby geese is all you need.\n\n<img src=\"uploads/2026/20260505-0043.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-05-06T05:03:07-07:00",
+				"url": "https://larkfarm.com/2026/05/06/goslings-sometimes-a-few-baby.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/05/05/almost-til-s-shutter-speed.html",
+				
+				"content_html": "<p>&ldquo;Almost&rdquo;</p>\n<p>TIL: 1/400s shutter speed isn&rsquo;t quite fast enough for a moving heron.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Almost\"\n\nTIL: 1/400s shutter speed isn't quite fast enough for a moving heron.\n\n<img src=\"uploads/2026/20260505-0413.jpg\" width=\"600\" height=\"337\" alt=\"heron in the river spreading its wings\">\n",
+				"date_published": "2026-05-05T16:30:55-07:00",
+				"url": "https://larkfarm.com/2026/05/05/almost-til-s-shutter-speed.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/05/05/heron-in-the-willamette-river.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/xzasd0ewnzsqt7udtbvfzxoy9msx27duxf4l2hp9.jpg\" alt=\"A heron standing in the river\">\n                                            </div>\n                    <p style=\"padding:10px;\">Heron in the Willamette River near Skinner Butte.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/birdphotography?src=hash\" title=\"#birdphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#birdphotography</a></p>\n",
+				"date_published": "2026-05-05T15:41:19-07:00",
+				"url": "https://larkfarm.com/2026/05/05/heron-in-the-willamette-river.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/05/05/sunbeam-it-was-perfect-timing.html",
 				
 				"content_html": "<p>&ldquo;Sunbeam&rdquo;</p>\n<p>It was perfect timing for this Calypso Orchid.</p>\n<!-- raw HTML omitted -->\n",
@@ -18,7 +50,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/04/playing-around-with-highspeed-capture.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/5mlfuxvw32bwleqawpv549p0tm4bskvfwehqfchg.jpg\" alt=\"Water drop rebounding from an ice cube\">\n                                            </div>\n                    <p style=\"padding:10px;\">Playing around with high-speed capture, dripping water, and ice today. OK as abstract, but really needs better lighting and faster shutter. Always more to learn!<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/5mlfuxvw32bwleqawpv549p0tm4bskvfwehqfchg.jpg\" alt=\"Water drop rebounding from an ice cube\">\n                                            </div>\n                    <p style=\"padding:10px;\">Playing around with high-speed capture, dripping water, and ice today. OK as abstract, but really needs better lighting and faster shutter. Always more to learn!<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a></p>\n",
 				"date_published": "2026-05-04T13:16:19-07:00",
 				"url": "https://larkfarm.com/2026/05/04/playing-around-with-highspeed-capture.html"
 			},
@@ -26,7 +58,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/04/profile.html",
 				
 				"content_html": "<p>&ldquo;Profile&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Profile\"\n\n<img src=\"uploads/2026/20260504-0031.jpg\" width=\"600\" height=\"337\" alt=\"rock formation near the top of Castle Rock\">\n",
+				"content_text": "\"Profile\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260504-0031.jpg\" width=\"600\" height=\"337\" alt=\"rock formation near the top of Castle Rock\">\n",
 				"date_published": "2026-05-04T12:29:13-07:00",
 				"url": "https://larkfarm.com/2026/05/04/profile.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/04/armored-i-think-this-is.html",
 				
 				"content_html": "<p>&ldquo;Armored&rdquo;</p>\n<p>I <em>think</em> this is a Giant Woodland Ground Beetle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Armored\"\n\nI _think_ this is a Giant Woodland Ground Beetle.\n\n<img src=\"uploads/2026/20260504-0017.jpg\" width=\"600\" height=\"337\" alt=\"beetle in the moss\">\n",
+				"content_text": "\"Armored\"\n\nI _think_ this is a Giant Woodland Ground Beetle.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260504-0017.jpg\" width=\"600\" height=\"337\" alt=\"beetle in the moss\">\n",
 				"date_published": "2026-05-04T08:05:35-07:00",
 				"url": "https://larkfarm.com/2026/05/04/armored-i-think-this-is.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/04/castle-rock-one-of-the.html",
 				
 				"content_html": "<p>&ldquo;Castle Rock&rdquo;</p>\n<p>One of the destinations on yesterday&rsquo;s hike</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Castle Rock\"\n\nOne of the destinations on yesterday's hike\n\n<img src=\"uploads/2026/20260504-0007.jpg\" width=\"600\" height=\"337\" alt=\"forested mountain against the sky\">\n",
+				"content_text": "\"Castle Rock\"\n\nOne of the destinations on yesterday's hike\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260504-0007.jpg\" width=\"600\" height=\"337\" alt=\"forested mountain against the sky\">\n",
 				"date_published": "2026-05-04T07:58:43-07:00",
 				"url": "https://larkfarm.com/2026/05/04/castle-rock-one-of-the.html"
 			},
@@ -90,7 +122,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/02/cascades-morning-the-view-from.html",
 				
 				"content_html": "<p>&ldquo;Cascades Morning&rdquo;</p>\n<p>The view from Rock Knob</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Cascades Morning\"\n\nThe view from Rock Knob\n\n<img src=\"uploads/2026/20260429-0005.jpg\" width=\"600\" height=\"337\" alt=\"Forested hills and low clouds\">\n",
+				"content_text": "\"Cascades Morning\"\n\nThe view from Rock Knob\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260429-0005.jpg\" width=\"600\" height=\"337\" alt=\"Forested hills and low clouds\">\n",
 				"date_published": "2026-05-02T05:16:09-07:00",
 				"url": "https://larkfarm.com/2026/05/02/cascades-morning-the-view-from.html"
 			},
