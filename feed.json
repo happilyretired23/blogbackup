@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/05/08/glacier-lily.html",
+				
+				"content_html": "<p>&ldquo;Glacier Lily&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Glacier Lily\"\n\n<img src=\"uploads/2026/20260507-0019.jpg\" width=\"600\" height=\"337\" alt=\"bright yellow flower\">\n",
+				"date_published": "2026-05-08T05:06:44-07:00",
+				"url": "https://larkfarm.com/2026/05/08/glacier-lily.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/05/06/bridgework.html",
+				
+				"content_html": "<p>&ldquo;Bridgework&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Bridgework\"\n\n<img src=\"uploads/2026/20260505-0098.jpg\" width=\"600\" height=\"337\" alt=\"suspension bridge details\">\n",
+				"date_published": "2026-05-06T08:49:39-07:00",
+				"url": "https://larkfarm.com/2026/05/06/bridgework.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/05/06/coffee-time.html",
+				
+				"content_html": "<p>&ldquo;Coffee Time&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Coffee Time\"\n\n<img src=\"uploads/2026/20260505-0019.jpg\" width=\"600\" height=\"337\" alt=\"people in a coffee shop window\">\n",
+				"date_published": "2026-05-06T07:59:13-07:00",
+				"url": "https://larkfarm.com/2026/05/06/coffee-time.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/05/06/were-open.html",
 				
 				"content_html": "<p>&ldquo;we&rsquo;re OPEN&rdquo;</p>\n<!-- raw HTML omitted -->\n",
@@ -26,7 +50,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/05/almost-til-s-shutter-speed.html",
 				
 				"content_html": "<p>&ldquo;Almost&rdquo;</p>\n<p>TIL: 1/400s shutter speed isn&rsquo;t quite fast enough for a moving heron.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Almost\"\n\nTIL: 1/400s shutter speed isn't quite fast enough for a moving heron.\n\n<img src=\"uploads/2026/20260505-0413.jpg\" width=\"600\" height=\"337\" alt=\"heron in the river spreading its wings\">\n",
+				"content_text": "\"Almost\"\n\nTIL: 1/400s shutter speed isn't quite fast enough for a moving heron.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260505-0413.jpg\" width=\"600\" height=\"337\" alt=\"heron in the river spreading its wings\">\n",
 				"date_published": "2026-05-05T16:30:55-07:00",
 				"url": "https://larkfarm.com/2026/05/05/almost-til-s-shutter-speed.html"
 			},
@@ -34,7 +58,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/05/heron-in-the-willamette-river.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/xzasd0ewnzsqt7udtbvfzxoy9msx27duxf4l2hp9.jpg\" alt=\"A heron standing in the river\">\n                                            </div>\n                    <p style=\"padding:10px;\">Heron in the Willamette River near Skinner Butte.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/birdphotography?src=hash\" title=\"#birdphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#birdphotography</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/xzasd0ewnzsqt7udtbvfzxoy9msx27duxf4l2hp9.jpg\" alt=\"A heron standing in the river\">\n                                            </div>\n                    <p style=\"padding:10px;\">Heron in the Willamette River near Skinner Butte.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/birdphotography?src=hash\" title=\"#birdphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#birdphotography</a></p>\n",
 				"date_published": "2026-05-05T15:41:19-07:00",
 				"url": "https://larkfarm.com/2026/05/05/heron-in-the-willamette-river.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/05/sunbeam-it-was-perfect-timing.html",
 				
 				"content_html": "<p>&ldquo;Sunbeam&rdquo;</p>\n<p>It was perfect timing for this Calypso Orchid.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Sunbeam\"\n\nIt was perfect timing for this Calypso Orchid.\n\n<img src=\"uploads/2026/20260504-0066.jpg\" width=\"600\" height=\"337\" alt=\"tiny flower in the sun\">\n",
+				"content_text": "\"Sunbeam\"\n\nIt was perfect timing for this Calypso Orchid.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260504-0066.jpg\" width=\"600\" height=\"337\" alt=\"tiny flower in the sun\">\n",
 				"date_published": "2026-05-05T06:32:23-07:00",
 				"url": "https://larkfarm.com/2026/05/05/sunbeam-it-was-perfect-timing.html"
 			},
