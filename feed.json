@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/05/09/gold-hill-view-mt-washington.html",
+				
+				"content_html": "<p>&ldquo;Gold Hill View&rdquo;</p>\n<p>Mt. Washington in the background, Quentin Knob in the midground.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Gold Hill View\"\n\nMt. Washington in the background, Quentin Knob in the midground.\n\n<img src=\"uploads/2026/20260507-0031.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-05-09T05:12:51-07:00",
+				"url": "https://larkfarm.com/2026/05/09/gold-hill-view-mt-washington.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/05/08/the-worst-thing-about-fedexs.html",
+				
+				"content_html": "<p>The worst thing about Fedex&rsquo;s &ldquo;track your delivery on a map&rdquo; is watching your package circle all around your address without actually getting there.</p>\n",
+				"content_text": "The worst thing about Fedex's \"track your delivery on a map\" is watching your package circle all around your address without actually getting there.\n",
+				"date_published": "2026-05-08T16:58:53-07:00",
+				"url": "https://larkfarm.com/2026/05/08/the-worst-thing-about-fedexs.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/05/08/rocky-trail-view-on-my.html",
+				
+				"content_html": "<p>&ldquo;Rocky Trail&rdquo;</p>\n<p>View on my way up Tidbits Mountain yesterday.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Rocky Trail\"\n\nView on my way up Tidbits Mountain yesterday.\n\n<img src=\"uploads/2026/20260507-0042.jpg\" width=\"600\" height=\"337\" alt=\"trail across scree\">\n",
+				"date_published": "2026-05-08T11:32:10-07:00",
+				"url": "https://larkfarm.com/2026/05/08/rocky-trail-view-on-my.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/05/08/a-major-loss-for-the.html",
+				
+				"content_html": "<p>A <a href=\"https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled\">major loss for the DOGE nitwits</a>. Better late than never, I guess.</p>\n",
+				"content_text": "A [major loss for the DOGE nitwits](https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled). Better late than never, I guess.\n",
+				"date_published": "2026-05-08T11:31:02-07:00",
+				"url": "https://larkfarm.com/2026/05/08/a-major-loss-for-the.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/05/08/ai-and-cameraequipped-airpods-are.html",
+				
+				"content_html": "<p><a href=\"https://www.bloomberg.com/news/articles/2026-05-07/apple-s-camera-equipped-airpods-reach-advanced-testing-stage-in-ai-device-push\">AI- and camera-equipped Airpods are apparently coming</a>. And of course stupid face-mounted surveillance devices are already here.</p>\n<p>I&rsquo;m about ready to put a NO AI ZONE sign on my front door and require visitors to put all devices in a Faraday pouch.</p>\n",
+				"content_text": "[AI- and camera-equipped Airpods are apparently coming](https://www.bloomberg.com/news/articles/2026-05-07/apple-s-camera-equipped-airpods-reach-advanced-testing-stage-in-ai-device-push). And of course stupid face-mounted surveillance devices are already here.\n\nI'm about ready to put a NO AI ZONE sign on my front door and require visitors to put all devices in a Faraday pouch.\n",
+				"date_published": "2026-05-08T08:45:23-07:00",
+				"url": "https://larkfarm.com/2026/05/08/ai-and-cameraequipped-airpods-are.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/05/08/glacier-lily.html",
 				
 				"content_html": "<p>&ldquo;Glacier Lily&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Glacier Lily\"\n\n<img src=\"uploads/2026/20260507-0019.jpg\" width=\"600\" height=\"337\" alt=\"bright yellow flower\">\n",
+				"content_text": "\"Glacier Lily\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260507-0019.jpg\" width=\"600\" height=\"337\" alt=\"bright yellow flower\">\n",
 				"date_published": "2026-05-08T05:06:44-07:00",
 				"url": "https://larkfarm.com/2026/05/08/glacier-lily.html"
 			},
@@ -18,7 +58,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/06/bridgework.html",
 				
 				"content_html": "<p>&ldquo;Bridgework&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Bridgework\"\n\n<img src=\"uploads/2026/20260505-0098.jpg\" width=\"600\" height=\"337\" alt=\"suspension bridge details\">\n",
+				"content_text": "\"Bridgework\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260505-0098.jpg\" width=\"600\" height=\"337\" alt=\"suspension bridge details\">\n",
 				"date_published": "2026-05-06T08:49:39-07:00",
 				"url": "https://larkfarm.com/2026/05/06/bridgework.html"
 			},
@@ -26,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/06/coffee-time.html",
 				
 				"content_html": "<p>&ldquo;Coffee Time&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Coffee Time\"\n\n<img src=\"uploads/2026/20260505-0019.jpg\" width=\"600\" height=\"337\" alt=\"people in a coffee shop window\">\n",
+				"content_text": "\"Coffee Time\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260505-0019.jpg\" width=\"600\" height=\"337\" alt=\"people in a coffee shop window\">\n",
 				"date_published": "2026-05-06T07:59:13-07:00",
 				"url": "https://larkfarm.com/2026/05/06/coffee-time.html"
 			},
@@ -34,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/06/were-open.html",
 				
 				"content_html": "<p>&ldquo;we&rsquo;re OPEN&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"we're OPEN\"\n\n<img src=\"uploads/2026/20260505-0782.jpg\" width=\"600\" height=\"337\" alt=\"neon sign on red building\">\n",
+				"content_text": "\"we're OPEN\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260505-0782.jpg\" width=\"600\" height=\"337\" alt=\"neon sign on red building\">\n",
 				"date_published": "2026-05-06T06:32:26-07:00",
 				"url": "https://larkfarm.com/2026/05/06/were-open.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/06/goslings-sometimes-a-few-baby.html",
 				
 				"content_html": "<p>&ldquo;Goslings!&rdquo;</p>\n<p>Sometimes a few baby geese is all you need.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Goslings!\"\n\nSometimes a few baby geese is all you need.\n\n<img src=\"uploads/2026/20260505-0043.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Goslings!\"\n\nSometimes a few baby geese is all you need.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260505-0043.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-05-06T05:03:07-07:00",
 				"url": "https://larkfarm.com/2026/05/06/goslings-sometimes-a-few-baby.html"
 			},
