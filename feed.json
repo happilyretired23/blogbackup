@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/05/24/miles-in-the-three-sisters.html",
+				
+				"content_html": "<p>22 miles in the Three Sisters Wilderness today, close to half on unmaintained trails or no trail at all. Almost but not quite made it to Honey Creek Falls. Completely exhausted. I may need to dial back my ambitions a bit and admit that I am aging.</p>\n",
+				"content_text": "22 miles in the Three Sisters Wilderness today, close to half on unmaintained trails or no trail at all. Almost but not quite made it to Honey Creek Falls. Completely exhausted. I may need to dial back my ambitions a bit and admit that I am aging.\n",
+				"date_published": "2026-05-24T19:00:09-07:00",
+				"url": "https://larkfarm.com/2026/05/24/miles-in-the-three-sisters.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/05/23/peekaboo.html",
 				
 				"content_html": "<p>&ldquo;Peekaboo&rdquo;</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://ffmike.micro.blog/2026/05/23/walking-through-flowers.html",
 				
 				"content_html": "<p>&ldquo;Walking Through Flowers&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Walking Through Flowers\"\n\n<img src=\"uploads/2026/20260522-0024.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "\"Walking Through Flowers\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260522-0024.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-05-23T05:57:06-07:00",
 				"url": "https://larkfarm.com/2026/05/23/walking-through-flowers.html"
 			},
