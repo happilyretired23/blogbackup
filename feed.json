@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/06/09/brainz.html",
+				
+				"content_html": "<p>&ldquo;Brainz!&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Brainz!\"\n\n\n\n<img src=\"uploads/2026/20260607-0240.jpg\" width=\"600\" height=\"337\" alt=\"Actually a false morel mushroom​\">\n",
+				"date_published": "2026-06-09T05:49:36-07:00",
+				"url": "https://larkfarm.com/2026/06/09/brainz.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/06/08/shooting-stars-one-of-our.html",
+				
+				"content_html": "<p>&ldquo;Shooting Stars&rdquo;</p>\n<p>One of our prettiest wildflowers, in this case with a dusting of early morning snow near Waldo Lake.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Shooting Stars\"\n\nOne of our prettiest wildflowers, in this case with a dusting of early morning snow near Waldo Lake.\n\n<img src=\"uploads/2026/20260607-0176.jpg\" width=\"600\" height=\"337\" alt=\"small purplish flowers\">\n",
+				"date_published": "2026-06-08T17:52:12-07:00",
+				"url": "https://larkfarm.com/2026/06/08/shooting-stars-one-of-our.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/06/08/nap-time-in-the-rain.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/rouea9hnsozbvnfgawjheflkfftwkxv7hkknybe4.jpg\" alt=\"two ducks sleeping on a log\">\n                                            </div>\n                    <p style=\"padding:10px;\">Nap time in the rain.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/birdphotography?src=hash\" title=\"#birdphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#birdphotography</a></p>\n",
+				"date_published": "2026-06-08T10:31:50-07:00",
+				"url": "https://larkfarm.com/2026/06/08/nap-time-in-the-rain.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/06/08/bleak-yesterday-i-hiked-much.html",
+				
+				"content_html": "<p>&ldquo;Bleak&rdquo;</p>\n<p>Yesterday I hiked much of the old Black Creek trail through the 2022 Cedar Creek fire scar. This is one of the worst spots: high-intensity burn killed all the trees and went clear down to the mineral soil. Bear grass and moss are starting to recolonize. In another couple of years all those trees will come down and the old trailbed will be invisible.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Bleak\"\n\nYesterday I hiked much of the old Black Creek trail through the 2022 Cedar Creek fire scar. This is one of the worst spots: high-intensity burn killed all the trees and went clear down to the mineral soil. Bear grass and moss are starting to recolonize. In another couple of years all those trees will come down and the old trailbed will be invisible.\n\n<img src=\"uploads/2026/20260607-0147.jpg\" width=\"600\" height=\"337\" alt=\"burned trees and a sandy trailbed\">\n",
+				"date_published": "2026-06-08T05:15:44-07:00",
+				"url": "https://larkfarm.com/2026/06/08/bleak-yesterday-i-hiked-much.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/06/07/the-upper-cascades-of-lillian.html",
 				"title": "The upper 3 cascades of Lillian Falls. This was a tough one to get to: the closest open trailhead is about 7 miles off, and half of that is on trail the burned and hasn\u0026#039;t been maintained in years. Still worth it.\n#dailyphoto #oregon #waterfall",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -18,7 +50,7 @@
 				"id": "http://ffmike.micro.blog/2026/06/06/let-there-be-sky-in.html",
 				
 				"content_html": "<p>&ldquo;Let There Be Sky&rdquo;</p>\n<p>In Oregon weather reports, we call this a &ldquo;sun break.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Let There Be Sky\"\n\nIn Oregon weather reports, we call this a \"sun break.\"\n\n<img src=\"uploads/2026/20260606-0009.jpg\" width=\"600\" height=\"337\" alt=\"a bit of blue sky peeking through dark clouds\">\n",
+				"content_text": "\"Let There Be Sky\"\n\nIn Oregon weather reports, we call this a \"sun break.\"\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260606-0009.jpg\" width=\"600\" height=\"337\" alt=\"a bit of blue sky peeking through dark clouds\">\n",
 				"date_published": "2026-06-06T17:48:03-07:00",
 				"url": "https://larkfarm.com/2026/06/06/let-there-be-sky-in.html"
 			},
@@ -26,7 +58,7 @@
 				"id": "http://ffmike.micro.blog/2026/06/06/i-would-call-this-a.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/p2ft9j993mkymlwubphrkxuihuynps2ghetzwdkf.jpg\" alt=\"yellow fire hydrant with eyes and a smiling mouth drawn on\">\n                                            </div>\n                    <p style=\"padding:10px;\">I would call this a Hi Drant!<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/p2ft9j993mkymlwubphrkxuihuynps2ghetzwdkf.jpg\" alt=\"yellow fire hydrant with eyes and a smiling mouth drawn on\">\n                                            </div>\n                    <p style=\"padding:10px;\">I would call this a Hi Drant!<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a></p>\n",
 				"date_published": "2026-06-06T16:03:29-07:00",
 				"url": "https://larkfarm.com/2026/06/06/i-would-call-this-a.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/06/06/nebraska-gateway-thats-the-name.html",
 				
 				"content_html": "<p>&ldquo;Nebraska Gateway&rdquo;</p>\n<p>That&rsquo;s the name of this sculpture at one of Nebraska&rsquo;s I-80 rest stops. Looks more like &ldquo;Hammer and Stapler&rdquo; to me, but what do I know?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Nebraska Gateway\"\n\nThat's the name of this sculpture at one of Nebraska's I-80 rest stops. Looks more like \"Hammer and Stapler\" to me, but what do I know?\n\n<img src=\"uploads/2026/20260531-0411.jpg\" width=\"600\" height=\"337\" alt=\"blocky sculpture surrounded by trees and grass\">\n",
+				"content_text": "\"Nebraska Gateway\"\n\nThat's the name of this sculpture at one of Nebraska's I-80 rest stops. Looks more like \"Hammer and Stapler\" to me, but what do I know?\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260531-0411.jpg\" width=\"600\" height=\"337\" alt=\"blocky sculpture surrounded by trees and grass\">\n",
 				"date_published": "2026-06-06T07:17:49-07:00",
 				"url": "https://larkfarm.com/2026/06/06/nebraska-gateway-thats-the-name.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://ffmike.micro.blog/2026/06/06/crab-spider-another-tiny-friend.html",
 				
 				"content_html": "<p>&ldquo;Crab Spider&rdquo;</p>\n<p>Another tiny friend in the woods</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Crab Spider\"\n\nAnother tiny friend in the woods\n\n<img src=\"uploads/2026/20260605-0122.jpg\" width=\"600\" height=\"337\" alt=\"small spider on the bottom of a flower\">\n",
+				"content_text": "\"Crab Spider\"\n\nAnother tiny friend in the woods\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260605-0122.jpg\" width=\"600\" height=\"337\" alt=\"small spider on the bottom of a flower\">\n",
 				"date_published": "2026-06-06T04:59:29-07:00",
 				"url": "https://larkfarm.com/2026/06/06/crab-spider-another-tiny-friend.html"
 			},
