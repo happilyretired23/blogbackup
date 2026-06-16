@@ -7,12 +7,36 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/06/16/a-butterfly-coming-in-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/xzupmujbuujyoowwkpgclv9icjba4ttpkjujh7av.jpg\" alt=\"yellow butterfly landing on some yellow flowers\">\n                                            </div>\n                    <p style=\"padding:10px;\">A butterfly coming in for a landing.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/insectphotography?src=hash\" title=\"#insectphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#insectphotography</a> <a href=\"https://pxlmo.com/discover/tags/flowerphotography?src=hash\" title=\"#flowerphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowerphotography</a></p>\n",
+				"date_published": "2026-06-16T13:50:57-07:00",
+				"url": "https://larkfarm.com/2026/06/16/a-butterfly-coming-in-for.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/06/15/sepia-daisies.html",
+				
+				"content_html": "<p>&ldquo;Sepia Daisies&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Sepia Daisies\"\n\n<img src=\"uploads/2026/20260615-0023.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-06-15T09:49:54-07:00",
+				"url": "https://larkfarm.com/2026/06/15/sepia-daisies.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/06/15/beneath-notice-apparently-the-tiny.html",
 				
 				"content_html": "<p>&ldquo;Beneath Notice&rdquo;</p>\n<p>Apparently the tiny fly is too tiny for this orbweaver to care about.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "\"Beneath Notice\"\n\nApparently the tiny fly is too tiny for this orbweaver to care about.\n\n<img src=\"uploads/2026/20260615-0008.jpg\" width=\"600\" height=\"337\" alt=\"large spider and teeny fly on a daisy\">\n",
 				"date_published": "2026-06-15T08:09:59-07:00",
 				"url": "https://larkfarm.com/2026/06/15/beneath-notice-apparently-the-tiny.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/06/15/just-a-brontosaurus-in-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/xd2vz3905xbnsxtzk0vq1iprihezel9z4ebr1x43.jpg\" alt=\"Suggestively shaped log sticking up from the flowers\">\n                                            </div>\n                    <p style=\"padding:10px;\">Just a brontosaurus in a field of daisies.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/flowerphotography?src=hash\" title=\"#flowerphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#flowerphotography</a></p>\n",
+				"date_published": "2026-06-15T07:57:12-07:00",
+				"url": "https://larkfarm.com/2026/06/15/just-a-brontosaurus-in-a.html"
 			},
 			{
 				"id": "http://ffmike.micro.blog/2026/06/14/preening-duck-cleaning-up-on.html",
@@ -42,7 +66,7 @@
 				"id": "http://ffmike.micro.blog/2026/06/14/transient-art-ran-across-this.html",
 				
 				"content_html": "<p>&ldquo;Transient Art&rdquo;</p>\n<p>Ran across this while out hiking the other day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Transient Art\"\n\nRan across this while out hiking the other day\n\n<img src=\"uploads/2026/20260609-0028.jpg\" width=\"600\" height=\"337\" alt=\"daisies arranged in a heart shape on top of a rock\">\n",
+				"content_text": "\"Transient Art\"\n\nRan across this while out hiking the other day\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260609-0028.jpg\" width=\"600\" height=\"337\" alt=\"daisies arranged in a heart shape on top of a rock\">\n",
 				"date_published": "2026-06-14T09:49:50-07:00",
 				"url": "https://larkfarm.com/2026/06/14/transient-art-ran-across-this.html"
 			},
