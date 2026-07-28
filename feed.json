@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ffmike.micro.blog/2026/07/28/qtip-this-tree-is-struggling.html",
+				
+				"content_html": "<p>&ldquo;Q-Tip&rdquo;</p>\n<p>This tree is struggling but it&rsquo;s not ready to give up yet.</p>\n<img src=\"uploads/2026/20260727-0026.jpg\" width=\"600\" height=\"337\" alt=\"long bare trunk with a tiny tuft of leaves at the top\">\n",
+				"content_text": "\"Q-Tip\"\n\nThis tree is struggling but it's not ready to give up yet.\n\n<img src=\"uploads/2026/20260727-0026.jpg\" width=\"600\" height=\"337\" alt=\"long bare trunk with a tiny tuft of leaves at the top\">\n",
+				"date_published": "2026-07-28T04:32:55-07:00",
+				"url": "https://larkfarm.com/2026/07/28/qtip-this-tree-is-struggling.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/07/27/door.html",
+				
+				"content_html": "<p>&ldquo;Door&rdquo;</p>\n<img src=\"uploads/2026/20260724-0036.jpg\" width=\"600\" height=\"337\" alt=\"weathered door with a spiral painted on the front\">\n",
+				"content_text": "\"Door\"\n\n<img src=\"uploads/2026/20260724-0036.jpg\" width=\"600\" height=\"337\" alt=\"weathered door with a spiral painted on the front\">\n",
+				"date_published": "2026-07-27T15:54:42-07:00",
+				"url": "https://larkfarm.com/2026/07/27/door.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/07/27/misty-mountains-or-at-least.html",
+				
+				"content_html": "<p>&ldquo;Misty Mountains&rdquo;</p>\n<p>Or at least hazy ones, thanks to lingering wildfire smoke.</p>\n<img src=\"uploads/2026/20260727-0042.jpg\" width=\"600\" height=\"337\" alt=\"skylines vanishing into the distance\">\n",
+				"content_text": "\"Misty Mountains\"\n\nOr at least hazy ones, thanks to lingering wildfire smoke.\n\n<img src=\"uploads/2026/20260727-0042.jpg\" width=\"600\" height=\"337\" alt=\"skylines vanishing into the distance\">\n",
+				"date_published": "2026-07-27T14:36:00-07:00",
+				"url": "https://larkfarm.com/2026/07/27/misty-mountains-or-at-least.html"
+			},
+			{
+				"id": "http://ffmike.micro.blog/2026/07/27/just-a-closeup-of-some.html",
+				
+				"content_html": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/3ugzr70epmaw05healz4tiseahvzi0dxrqvx2ozc.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Just a closeup of some moss.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/moss?src=hash\" title=\"#moss\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#moss</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/3ugzr70epmaw05healz4tiseahvzi0dxrqvx2ozc.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Just a closeup of some moss.<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/moss?src=hash\" title=\"#moss\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#moss</a></p>\n",
+				"date_published": "2026-07-27T13:31:28-07:00",
+				"url": "https://larkfarm.com/2026/07/27/just-a-closeup-of-some.html"
+			},
+			{
 				"id": "http://ffmike.micro.blog/2026/07/27/hello-pareidolia-means-you-can.html",
 				
 				"content_html": "<p>&ldquo;Hello!&rdquo;</p>\n<p>Pareidolia means you can see faces anywhere.</p>\n<img src=\"uploads/2026/20260725-0193.jpg\" width=\"600\" height=\"337\" alt=\"grinning end of a burnt log\">\n",
@@ -17,24 +49,24 @@
 			{
 				"id": "http://ffmike.micro.blog/2026/07/26/peekaboo-mushrooms-really-are-sort.html",
 				
-				"content_html": "<p>&ldquo;Peekaboo&rdquo;</p>\n<p>Mushrooms really are sort of amazing if you stop to think about it. There&rsquo;s this random patch of dirt in the forest, and then BOOM there is this <em>thing</em> coming up from under the ground&hellip;</p>\n<img src=\"uploads/2026/20260725-0113.jpg\" width=\"600\" height=\"337\" alt=\"mushroom sprouting on the forest floor\">\n",
-				"content_text": "\"Peekaboo\"\n\nMushrooms really are sort of amazing if you stop to think about it. There's this random patch of dirt in the forest, and then BOOM there is this _thing_ coming up from under the ground...\n\n<img src=\"uploads/2026/20260725-0113.jpg\" width=\"600\" height=\"337\" alt=\"mushroom sprouting on the forest floor\">\n",
+				"content_html": "<p>&ldquo;Peekaboo&rdquo;</p>\n<p>Mushrooms really are sort of amazing if you stop to think about it. There&rsquo;s this random patch of dirt in the forest, and then BOOM there is this <em>thing</em> coming up from under the ground&hellip;</p>\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260725-0113.jpg\" width=\"600\" height=\"337\" alt=\"mushroom sprouting on the forest floor\">\n",
+				"content_text": "\"Peekaboo\"\n\nMushrooms really are sort of amazing if you stop to think about it. There's this random patch of dirt in the forest, and then BOOM there is this _thing_ coming up from under the ground...\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260725-0113.jpg\" width=\"600\" height=\"337\" alt=\"mushroom sprouting on the forest floor\">\n",
 				"date_published": "2026-07-26T17:02:06-07:00",
 				"url": "https://larkfarm.com/2026/07/26/peekaboo-mushrooms-really-are-sort.html"
 			},
 			{
 				"id": "http://ffmike.micro.blog/2026/07/26/face-to-face-with-a.html",
 				
-				"content_html": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/ahdzn3y6h7opkmiefggiam6ejubpcddxwybfwpcy.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Face to face with a fly on a rose bush<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/insectphotography?src=hash\" title=\"#insectphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#insectphotography</a></p>\n",
-				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://larkfarm.com/uploads/2026/ahdzn3y6h7opkmiefggiam6ejubpcddxwybfwpcy.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Face to face with a fly on a rose bush<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/insectphotography?src=hash\" title=\"#insectphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#insectphotography</a></p>\n",
+				"content_html": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/ahdzn3y6h7opkmiefggiam6ejubpcddxwybfwpcy.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Face to face with a fly on a rose bush<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/insectphotography?src=hash\" title=\"#insectphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#insectphotography</a></p>\n",
+				"content_text": "<div class=\"media-gallery\">\n                                                    <img class=\"media-item\" src=\"https://cdn.uploads.micro.blog/209740/2026/ahdzn3y6h7opkmiefggiam6ejubpcddxwybfwpcy.jpg\" alt=\"\">\n                                            </div>\n                    <p style=\"padding:10px;\">Face to face with a fly on a rose bush<br />\n<br />\n<a href=\"https://pxlmo.com/discover/tags/dailyphoto?src=hash\" title=\"#dailyphoto\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#dailyphoto</a> <a href=\"https://pxlmo.com/discover/tags/oregon?src=hash\" title=\"#oregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#oregon</a> <a href=\"https://pxlmo.com/discover/tags/eugeneoregon?src=hash\" title=\"#eugeneoregon\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#eugeneoregon</a> <a href=\"https://pxlmo.com/discover/tags/insectphotography?src=hash\" title=\"#insectphotography\" class=\"u-url hashtag\" rel=\"external nofollow noopener\">#insectphotography</a></p>\n",
 				"date_published": "2026-07-26T07:51:50-07:00",
 				"url": "https://larkfarm.com/2026/07/26/face-to-face-with-a.html"
 			},
 			{
 				"id": "http://ffmike.micro.blog/2026/07/26/negative-forest-in-the-aftermath.html",
 				
-				"content_html": "<p>&ldquo;Negative Forest&rdquo;</p>\n<p>In the aftermath of a wildfire.</p>\n<img src=\"uploads/2026/20260725-0082.jpg\" width=\"600\" height=\"337\" alt=\"color-altered photo of burnt trees\">\n",
-				"content_text": "\"Negative Forest\"\n\nIn the aftermath of a wildfire.\n\n<img src=\"uploads/2026/20260725-0082.jpg\" width=\"600\" height=\"337\" alt=\"color-altered photo of burnt trees\">\n",
+				"content_html": "<p>&ldquo;Negative Forest&rdquo;</p>\n<p>In the aftermath of a wildfire.</p>\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260725-0082.jpg\" width=\"600\" height=\"337\" alt=\"color-altered photo of burnt trees\">\n",
+				"content_text": "\"Negative Forest\"\n\nIn the aftermath of a wildfire.\n\n<img src=\"https://cdn.uploads.micro.blog/209740/2026/20260725-0082.jpg\" width=\"600\" height=\"337\" alt=\"color-altered photo of burnt trees\">\n",
 				"date_published": "2026-07-26T06:28:45-07:00",
 				"url": "https://larkfarm.com/2026/07/26/negative-forest-in-the-aftermath.html"
 			},
